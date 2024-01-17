@@ -1,0 +1,157 @@
+[
+  {
+    "id": 1,
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "winner": 0
+  },
+  {
+    "id": 2,
+    "name": "Neuqu\u00e9n",
+    "winner": 0
+  },
+  {
+    "id": 3,
+    "name": "San Lu\u00eds",
+    "winner": 0
+  },
+  {
+    "id": 4,
+    "name": "Santa Fe",
+    "winner": 0
+  },
+  {
+    "id": 5,
+    "name": "La Rioja",
+    "winner": 0
+  },
+  {
+    "id": 6,
+    "name": "Catamarca",
+    "winner": 0
+  },
+  {
+    "id": 7,
+    "name": "Tucum\u00e1n",
+    "winner": 0
+  },
+  {
+    "id": 8,
+    "name": "Chaco",
+    "winner": 1
+  },
+  {
+    "id": 9,
+    "name": "Formosa",
+    "winner": 1
+  },
+  {
+    "id": 10,
+    "name": "Santa Cruz",
+    "winner": 0
+  },
+  {
+    "id": 11,
+    "name": "Chubut",
+    "winner": 0
+  },
+  {
+    "id": 12,
+    "name": "Mendoza",
+    "winner": 0
+  },
+  {
+    "id": 13,
+    "name": "Entre R\u00edos",
+    "winner": 0
+  },
+  {
+    "id": 14,
+    "name": "San Juan",
+    "winner": 0
+  },
+  {
+    "id": 15,
+    "name": "Jujuy",
+    "winner": 0
+  },
+  {
+    "id": 16,
+    "name": "Santiago del Estero",
+    "winner": 1
+  },
+  {
+    "id": 17,
+    "name": "R\u00edo Negro",
+    "winner": 0
+  },
+  {
+    "id": 18,
+    "name": "Corrientes",
+    "winner": 0
+  },
+  {
+    "id": 19,
+    "name": "Misiones",
+    "winner": 0
+  },
+  {
+    "id": 20,
+    "name": "Salta",
+    "winner": 0
+  },
+  {
+    "id": 21,
+    "name": "C\u00f3rdoba",
+    "winner": 0
+  },
+  {
+    "id": 22,
+    "name": "Buenos Aires",
+    "winner": 1
+  },
+  {
+    "id": 23,
+    "name": "La Pampa",
+    "winner": 0
+  },
+  {
+    "id": 24,
+    "name": "Tierra del Fuego, Ant\u00e1rtida e Islas del Atl\u00e1ntico Sur",
+    "winner": 0
+  },
+  {
+    "id": 25,
+    "name": "Uruguay",
+    "winner": 0
+  },
+  {
+    "id": 26,
+    "name": "Paraguay",
+    "winner": 0
+  },
+  {
+    "id": 27,
+    "name": "Paraná",
+    "winner": 0
+  },
+  {
+    "id": 28,
+    "name": "Rio Grande do Sul",
+    "winner": 0
+  },
+  {
+    "id": 29,
+    "name": "Santa Catarina",
+    "winner": 0
+  },
+  {
+    "id": 30,
+    "name": "Chile",
+    "winner": 0
+  },
+  {
+    "id": 31,
+    "name": "Río Verde",
+    "winner": 0
+  }
+]

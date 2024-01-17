@@ -1,0 +1,98 @@
+[
+  {
+    "gid": 1,
+    "nombre": "Ciudad Autónoma de Buenos Aires"
+  },
+  {
+    "gid": 2,
+    "nombre": "Neuquén"
+  },
+  {
+    "gid": 3,
+    "nombre": "San Luis"
+  },
+  {
+    "gid": 4,
+    "nombre": "Santa Fe"
+  },
+  {
+    "gid": 5,
+    "nombre": "La Rioja"
+  },
+  {
+    "gid": 6,
+    "nombre": "Catamarca"
+  },
+  {
+    "gid": 7,
+    "nombre": "Tucumán"
+  },
+  {
+    "gid": 8,
+    "nombre": "Chaco"
+  },
+  {
+    "gid": 9,
+    "nombre": "Formosa"
+  },
+  {
+    "gid": 10,
+    "nombre": "Santa Cruz"
+  },
+  {
+    "gid": 11,
+    "nombre": "Chubut"
+  },
+  {
+    "gid": 12,
+    "nombre": "Mendoza"
+  },
+  {
+    "gid": 13,
+    "nombre": "Entre Ríos"
+  },
+  {
+    "gid": 14,
+    "nombre": "San Juan"
+  },
+  {
+    "gid": 15,
+    "nombre": "Jujuy"
+  },
+  {
+    "gid": 16,
+    "nombre": "Santiago del Estero"
+  },
+  {
+    "gid": 17,
+    "nombre": "Río Negro"
+  },
+  {
+    "gid": 18,
+    "nombre": "Corrientes"
+  },
+  {
+    "gid": 19,
+    "nombre": "Misiones"
+  },
+  {
+    "gid": 20,
+    "nombre": "Salta"
+  },
+  {
+    "gid": 21,
+    "nombre": "Córdoba"
+  },
+  {
+    "gid": 22,
+    "nombre": "Buenos Aires"
+  },
+  {
+    "gid": 23,
+    "nombre": "La Pampa"
+  },
+  {
+    "gid": 24,
+    "nombre": "Tierra del Fuego, Antártida e Islas del Atlántico Sur"
+  }
+]

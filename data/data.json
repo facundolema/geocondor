@@ -1,0 +1,698 @@
+[
+  {
+    "id": 1,
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "capital": {
+      "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+      "coordinates": [
+        -58.45000076293945,
+        -34.599998474121094
+      ]
+    },
+    "capital_alt": {
+      "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+      "coordinates": [
+        -58.45000076293945,
+        -34.599998474121094
+      ]
+    },
+    "population": {
+      "source": "INDEC",
+      "year": 2010,
+      "total": 2890151,
+      "urbana": 2890151,
+      "rural_total": 0,
+      "rural_agrupada": 0,
+      "rural_dispersa": 0,
+      "rural_percentage": 0.0,
+      "urban_percentage": 100.0
+    }
+  },
+  {
+    "id": 2,
+    "name": "Neuqu\u00e9n",
+    "capital": {
+      "name": "Neuqu\u00e9n",
+      "coordinates": [
+        -68.05999755859375,
+        -38.95000076293945
+      ]
+    },
+    "capital_alt": {
+      "name": "Cutral C\u00f3",
+      "coordinates": [
+        -69.216667,
+        -38.933333
+      ]
+    },
+    "population": {
+      "source": "INDEC",
+      "year": 2010,
+      "total": 551266,
+      "urbana": 505012,
+      "rural_total": 46254,
+      "rural_agrupada": 17060,
+      "rural_dispersa": 29194,
+      "rural_percentage": 8.39,
+      "urban_percentage": 91.61
+    }
+  },
+  {
+    "id": 3,
+    "name": "San Lu\u00eds",
+    "capital": {
+      "name": "San Lu\u00eds",
+      "coordinates": [
+        -66.33333587646484,
+        -33.29999923706055
+      ]
+    },
+    "capital_alt": {
+      "name": "San Lu\u00eds",
+      "coordinates": [
+        -66.33333587646484,
+        -33.29999923706055
+      ]
+    },
+    "population": {
+      "source": "INDEC",
+      "year": 2010,
+      "total": 432310,
+      "urbana": 383340,
+      "rural_total": 48970,
+      "rural_agrupada": 27329,
+      "rural_dispersa": 21641,
+      "rural_percentage": 11.33,
+      "urban_percentage": 88.67
+    }
+  },
+  {
+    "id": 4,
+    "name": "Santa Fe",
+    "capital": {
+      "name": "Santa Fe",
+      "coordinates": [
+        -60.70000076293945,
+        -31.633333206176758
+      ]
+    },
+    "capital_alt": {
+      "name": "Rosario",
+      "coordinates": [
+        -60.666667,
+        -32.95
+      ]
+    },
+    "population": {
+      "source": "INDEC",
+      "year": 2010,
+      "total": 3194537,
+      "urbana": 2902245,
+      "rural_total": 292292,
+      "rural_agrupada": 153396,
+      "rural_dispersa": 138896,
+      "rural_percentage": 9.15,
+      "urban_percentage": 90.85
+    }
+  },
+  {
+    "id": 5,
+    "name": "La Rioja",
+    "capital": {
+      "name": "La Rioja",
+      "coordinates": [
+        -66.85000610351562,
+        -29.433332443237305
+      ]
+    },
+    "capital_alt": {
+      "name": "Chilecito",
+      "coordinates": [
+        -67.5,
+        -29.166667
+      ]
+    },
+    "population": {
+      "source": "INDEC",
+      "year": 2010,
+      "total": 333642,
+      "urbana": 288518,
+      "rural_total": 45124,
+      "rural_agrupada": 30730,
+      "rural_dispersa": 14394,
+      "rural_percentage": 13.52,
+      "urban_percentage": 86.48
+    }
+  },
+  {
+    "id": 6,
+    "name": "Catamarca",
+    "capital": {
+      "name": "Catamarca",
+      "coordinates": [
+        -65.78333282470703,
+        -28.46666717529297
+      ]
+    },
+    "capital_alt": {
+      "name": "San Fernando del Valle de Catamarca",
+      "coordinates": [
+        -65.78333282470703,
+        -28.46666717529297
+      ]
+    },
+    "population": {
+      "source": "INDEC",
+      "year": 2010,
+      "total": 367828,
+      "urbana": 283706,
+      "rural_total": 84122,
+      "rural_agrupada": 59637,
+      "rural_dispersa": 24485,
+      "rural_percentage": 22.87,
+      "urban_percentage": 77.13
+    }
+  },
+  {
+    "id": 7,
+    "name": "Tucum\u00e1n",
+    "capital": {
+      "name": "San Miguel de Tucum\u00e1n",
+      "coordinates": [
+        -65.21666717529297,
+        -26.816667556762695
+      ]
+    },
+    "capital_alt": {
+      "name": "Monteros",
+      "coordinates": [
+        -65.483333,
+        -27.166667
+      ]
+    },
+    "population": {
+      "source": "INDEC",
+      "year": 2010,
+      "total": 1448188,
+      "urbana": 1170302,
+      "rural_total": 277886,
+      "rural_agrupada": 39812,
+      "rural_dispersa": 238074,
+      "rural_percentage": 19.19,
+      "urban_percentage": 80.81
+    }
+  },
+  {
+    "id": 8,
+    "name": "Chaco",
+    "capital": {
+      "name": "Resistencia",
+      "coordinates": [
+        -58.983333587646484,
+        -27.450000762939453
+      ]
+    },
+    "capital_alt": {
+      "name": "Presidencia Roque S\u00e1enz Pe\u00f1a",
+      "coordinates": [
+        -60.433333,
+        -26.783333
+      ]
+    },
+    "population": {
+      "source": "INDEC",
+      "year": 2010,
+      "total": 1055259,
+      "urbana": 892688,
+      "rural_total": 162571,
+      "rural_agrupada": 34039,
+      "rural_dispersa": 128532,
+      "rural_percentage": 15.41,
+      "urban_percentage": 84.59
+    }
+  },
+  {
+    "id": 9,
+    "name": "Formosa",
+    "capital": {
+      "name": "Formosa",
+      "coordinates": [
+        -58.18333435058594,
+        -26.183332443237305
+      ]
+    },
+    "capital_alt": {
+      "name": "Formosa",
+      "coordinates": [
+        -58.18333435058594,
+        -26.183332443237305
+      ]
+    },
+    "population": {
+      "source": "INDEC",
+      "year": 2010,
+      "total": 530162,
+      "urbana": 428703,
+      "rural_total": 101459,
+      "rural_agrupada": 24019,
+      "rural_dispersa": 77440,
+      "rural_percentage": 19.14,
+      "urban_percentage": 80.86
+    }
+  },
+  {
+    "id": 10,
+    "name": "Santa Cruz",
+    "capital": {
+      "name": "R\u00edo Gallegos",
+      "coordinates": [
+        -69.21666717529297,
+        -51.63333511352539
+      ]
+    },
+    "capital_alt": {
+      "name": "Caleta Olivia",
+      "coordinates": [
+        -67.533333,
+        -46.433333
+      ]
+    },
+    "population": {
+      "source": "INDEC",
+      "year": 2010,
+      "total": 273964,
+      "urbana": 263243,
+      "rural_total": 10721,
+      "rural_agrupada": 5193,
+      "rural_dispersa": 5528,
+      "rural_percentage": 3.91,
+      "urban_percentage": 96.09
+    }
+  },
+  {
+    "id": 11,
+    "name": "Chubut",
+    "capital": {
+      "name": "Rawson",
+      "coordinates": [
+        -65.0999984741211,
+        -43.29999923706055
+      ]
+    },
+    "capital_alt": {
+      "name": "Comodoro Rivadavia",
+      "coordinates": [
+        -67.483333,
+        -45.866667
+      ]
+    },
+    "population": {
+      "source": "INDEC",
+      "year": 2010,
+      "total": 509108,
+      "urbana": 464268,
+      "rural_total": 44840,
+      "rural_agrupada": 26286,
+      "rural_dispersa": 18554,
+      "rural_percentage": 8.81,
+      "urban_percentage": 91.19
+    }
+  },
+  {
+    "id": 12,
+    "name": "Mendoza",
+    "capital": {
+      "name": "Mendoza",
+      "coordinates": [
+        -68.81666564941406,
+        -32.88333511352539
+      ]
+    },
+    "capital_alt": {
+      "name": "Guaymall\u00e9n",
+      "coordinates": [
+        -68.816667,
+        -32.883333
+      ]
+    },
+    "population": {
+      "source": "INDEC",
+      "year": 2010,
+      "total": 1738929,
+      "urbana": 1406283,
+      "rural_total": 332646,
+      "rural_agrupada": 55704,
+      "rural_dispersa": 276942,
+      "rural_percentage": 19.13,
+      "urban_percentage": 80.87
+    }
+  },
+  {
+    "id": 13,
+    "name": "Entre R\u00edos",
+    "capital": {
+      "name": "Paran\u00e1",
+      "coordinates": [
+        -60.53333282470703,
+        -31.733333587646484
+      ]
+    },
+    "capital_alt": {
+      "name": "Concordia",
+      "coordinates": [
+        -58.016667,
+        -31.4
+      ]
+    },
+    "population": {
+      "source": "INDEC",
+      "year": 2010,
+      "total": 1235994,
+      "urbana": 1059537,
+      "rural_total": 176457,
+      "rural_agrupada": 60382,
+      "rural_dispersa": 116075,
+      "rural_percentage": 14.28,
+      "urban_percentage": 85.72
+    }
+  },
+  {
+    "id": 14,
+    "name": "San Juan",
+    "capital": {
+      "name": "San Juan",
+      "coordinates": [
+        -68.51667022705078,
+        -31.53333282470703
+      ]
+    },
+    "capital_alt": {
+      "name": "Caucete",
+      "coordinates": [
+        -68.266667,
+        -31.65
+      ]
+    },
+    "population": {
+      "source": "INDEC",
+      "year": 2010,
+      "total": 681055,
+      "urbana": 593383,
+      "rural_total": 87672,
+      "rural_agrupada": 37617,
+      "rural_dispersa": 50055,
+      "rural_percentage": 12.87,
+      "urban_percentage": 87.13
+    }
+  },
+  {
+    "id": 15,
+    "name": "Jujuy",
+    "capital": {
+      "name": "San Salvador de Jujuy",
+      "coordinates": [
+        -65.30000305175781,
+        -24.183332443237305
+      ]
+    },
+    "capital_alt": {
+      "name": "San Pedro de Jujuy",
+      "coordinates": [
+        -64.866667,
+        -24.233333
+      ]
+    },
+    "population": {
+      "source": "INDEC",
+      "year": 2010,
+      "total": 673307,
+      "urbana": 588570,
+      "rural_total": 84737,
+      "rural_agrupada": 39571,
+      "rural_dispersa": 45166,
+      "rural_percentage": 12.59,
+      "urban_percentage": 87.41
+    }
+  },
+  {
+    "id": 16,
+    "name": "Santiago del Estero",
+    "capital": {
+      "name": "Santiago del Estero",
+      "coordinates": [
+        -64.26667022705078,
+        -27.78333282470703
+      ]
+    },
+    "capital_alt": {
+      "name": "La Banda",
+      "coordinates": [
+        -64.233333,
+        -27.65
+      ]
+    },
+    "population": {
+      "source": "INDEC",
+      "year": 2010,
+      "total": 874006,
+      "urbana": 600429,
+      "rural_total": 273577,
+      "rural_agrupada": 71589,
+      "rural_dispersa": 201988,
+      "rural_percentage": 31.3,
+      "urban_percentage": 68.7
+    }
+  },
+  {
+    "id": 17,
+    "name": "R\u00edo Negro",
+    "capital": {
+      "name": "Viedma",
+      "coordinates": [
+        -62.9962,
+        -40.8119
+      ]
+    },
+    "capital_alt": {
+      "name": "San Carlos de Bariloche",
+      "coordinates": [
+        -71.3103,
+        -41.1335
+      ]
+    },
+    "population": {
+      "source": "INDEC",
+      "year": 2010,
+      "total": 638645,
+      "urbana": 555970,
+      "rural_total": 82675,
+      "rural_agrupada": 40436,
+      "rural_dispersa": 42239,
+      "rural_percentage": 12.95,
+      "urban_percentage": 87.05
+    }
+  },
+  {
+    "id": 18,
+    "name": "Corrientes",
+    "capital": {
+      "name": "Corrientes",
+      "coordinates": [
+        -58.8306,
+        -27.4692
+      ]
+    },
+    "capital_alt": {
+      "name": "Goya",
+      "coordinates": [
+        -59.2643,
+        -29.1442
+      ]
+    },
+    "population": {
+      "source": "INDEC",
+      "year": 2010,
+      "total": 992595,
+      "urbana": 822224,
+      "rural_total": 170371,
+      "rural_agrupada": 35770,
+      "rural_dispersa": 134601,
+      "rural_percentage": 17.16,
+      "urban_percentage": 82.84
+    }
+  },
+  {
+    "id": 19,
+    "name": "Misiones",
+    "capital": {
+      "name": "Posadas",
+      "coordinates": [
+        -55.9009,
+        -27.3621
+      ]
+    },
+    "capital_alt": {
+      "name": "Ober\u00e1",
+      "coordinates": [
+        -55.1203,
+        -27.4868
+      ]
+    },
+    "population": {
+      "source": "INDEC",
+      "year": 2010,
+      "total": 1101593,
+      "urbana": 812554,
+      "rural_total": 289039,
+      "rural_agrupada": 54389,
+      "rural_dispersa": 234650,
+      "rural_percentage": 26.24,
+      "urban_percentage": 73.76
+    }
+  },
+  {
+    "id": 20,
+    "name": "Salta",
+    "capital": {
+      "name": "Salta",
+      "coordinates": [
+        -65.4232,
+        -24.7821
+      ]
+    },
+    "capital_alt": {
+      "name": "San Ram\u00f3n de la Nueva Or\u00e1n",
+      "coordinates": [
+        -64.32426,
+        -23.13705
+      ]
+    },
+    "population": {
+      "source": "INDEC",
+      "year": 2010,
+      "total": 1214441,
+      "urbana": 1057951,
+      "rural_total": 156490,
+      "rural_agrupada": 59104,
+      "rural_dispersa": 97386,
+      "rural_percentage": 12.89,
+      "urban_percentage": 87.11
+    }
+  },
+  {
+    "id": 21,
+    "name": "C\u00f3rdoba",
+    "capital": {
+      "name": "C\u00f3rdoba",
+      "coordinates": [
+        -64.1833,
+        -31.4167
+      ]
+    },
+    "capital_alt": {
+      "name": "R\u00edo Cuarto",
+      "coordinates": [
+        -64.3493,
+        -33.1307
+      ]
+    },
+    "population": {
+      "source": "INDEC",
+      "year": 2010,
+      "total": 3308876,
+      "urbana": 2966815,
+      "rural_total": 342061,
+      "rural_agrupada": 172791,
+      "rural_dispersa": 169270,
+      "rural_percentage": 10.34,
+      "urban_percentage": 89.66
+    }
+  },
+  {
+    "id": 22,
+    "name": "Buenos Aires",
+    "capital": {
+      "name": "La Plata",
+      "coordinates": [
+        -57.9544,
+        -34.9206
+      ]
+    },
+    "capital_alt": {
+      "name": "Bah\u00eda Blanca",
+      "coordinates": [
+        -62.2724,
+        -38.7183
+      ]
+    },
+    "population": {
+      "source": "INDEC",
+      "year": 2010,
+      "total": 15625084,
+      "urbana": 15190440,
+      "rural_total": 434644,
+      "rural_agrupada": 209437,
+      "rural_dispersa": 0,
+      "rural_percentage": 2.78,
+      "urban_percentage": 97.22
+    }
+  },
+  {
+    "id": 23,
+    "name": "La Pampa",
+    "capital": {
+      "name": "Santa Rosa",
+      "coordinates": [
+        -64.2833,
+        -36.6167
+      ]
+    },
+    "capital_alt": {
+      "name": "General Pico",
+      "coordinates": [
+        -63.7567,
+        -35.6567
+      ]
+    },
+    "population": {
+      "source": "INDEC",
+      "year": 2010,
+      "total": 318951,
+      "urbana": 265306,
+      "rural_total": 53645,
+      "rural_agrupada": 37264,
+      "rural_dispersa": 16381,
+      "rural_percentage": 16.82,
+      "urban_percentage": 83.18
+    }
+  },
+  {
+    "id": 24,
+    "name": "Tierra del Fuego, Ant\u00e1rtida e Islas del Atl\u00e1ntico Sur",
+    "capital": {
+      "name": "Ushuaia",
+      "coordinates": [
+        -68.3,
+        -54.8
+      ]
+    },
+    "capital_alt": {
+      "name": "R\u00edo Grande",
+      "coordinates": [
+        -67.7094,
+        -53.7869
+      ]
+    },
+    "population": {
+      "source": "INDEC",
+      "year": 2010,
+      "total": 127205,
+      "urbana": 125694,
+      "rural_total": 1511,
+      "rural_agrupada": 146,
+      "rural_dispersa": 1365,
+      "rural_percentage": 1.19,
+      "urban_percentage": 98.81
+    }
+  }
+]

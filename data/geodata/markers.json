@@ -1,0 +1,4259 @@
+[
+  {
+    "country": "FR",
+    "locations": [
+      {
+        "name": "Paris",
+        "lat": "48.85341",
+        "lng": "2.3488",
+        "type": "city"
+      },
+      {
+        "name": "Versailles",
+        "lat": "48.80482",
+        "lng": "2.12036",
+        "type": "city"
+      },
+      {
+        "name": "Strasbourg",
+        "lat": "48.58392",
+        "lng": "7.74553",
+        "type": "city"
+      },
+      {
+        "name": "Marseille",
+        "lat": "43.29695",
+        "lng": "5.38107",
+        "type": "city"
+      },
+      {
+        "name": "Nice",
+        "lat": "43.70313",
+        "lng": "7.26608",
+        "type": "city"
+      },
+      {
+        "name": "Nantes",
+        "lat": "47.21725",
+        "lng": "-1.55336",
+        "type": "city"
+      },
+      {
+        "name": "Lyon",
+        "lat": "45.74846",
+        "lng": "4.84671",
+        "type": "city"
+      },
+      {
+        "name": "Colmar",
+        "lat": "48.08078",
+        "lng": "7.35584",
+        "type": "city"
+      },
+      {
+        "name": "Bordeaux",
+        "lat": "44.84044",
+        "lng": "-0.5805",
+        "type": "city"
+      },
+      {
+        "name": "Annecy",
+        "lat": "45.90878",
+        "lng": "6.12565",
+        "type": "city"
+      },
+      {
+        "name": "Lille",
+        "lat": "50.63297",
+        "lng": "3.05858",
+        "type": "city"
+      },
+      {
+        "name": "Tours",
+        "lat": "47.39484",
+        "lng": "0.70398",
+        "type": "city"
+      },
+      {
+        "name": "Avignon",
+        "lat": "43.94834",
+        "lng": "4.80892",
+        "type": "city"
+      },
+      {
+        "name": "Dijon",
+        "lat": "47.31667",
+        "lng": "5.01667",
+        "type": "city"
+      },
+      {
+        "name": "Menton",
+        "lat": "43.77649",
+        "lng": "7.50435",
+        "type": "city"
+      },
+      {
+        "name": "Montpellier",
+        "lat": "43.61093",
+        "lng": "3.87635",
+        "type": "city"
+      },
+      {
+        "name": "Toulouse",
+        "lat": "43.60426",
+        "lng": "1.44367",
+        "type": "city"
+      },
+      {
+        "name": "Chamonix-Mont-Blanc",
+        "lat": "45.9231",
+        "lng": "6.8697",
+        "type": "city"
+      },
+      {
+        "name": "Èze",
+        "lat": "43.72799",
+        "lng": "7.36194",
+        "type": "city"
+      },
+      {
+        "name": "Chambéry",
+        "lat": "45.56628",
+        "lng": "5.92079",
+        "type": "city"
+      },
+      {
+        "name": "Aix-les-Bains",
+        "lat": "45.69173",
+        "lng": "5.90863",
+        "type": "city"
+      },
+      {
+        "name": "Courchevel",
+        "lat": "45.41538",
+        "lng": "6.63643",
+        "type": "city"
+      },
+      {
+        "name": "Megève",
+        "lat": "45.85687",
+        "lng": "6.61775",
+        "type": "city"
+      },
+      {
+        "name": "Verdon Gorges",
+        "lat": "43.75",
+        "lng": "6.25",
+        "type": "natural"
+      },
+      {
+        "name": "Etretat Cliffs",
+        "lat": "49.7075",
+        "lng": "0.204167",
+        "type": "natural"
+      },
+      {
+        "name": "Sea of Ice",
+        "lat": "45.9231",
+        "lng": "6.8697",
+        "type": "natural"
+      },
+      {
+        "name": "Dune du Pilat",
+        "lat": "44.583333",
+        "lng": "-1.216667",
+        "type": "natural"
+      },
+      {
+        "name": "Calanques de la Piana",
+        "lat": "42.25",
+        "lng": "8.616667",
+        "type": "natural"
+      },
+      {
+        "name": "Ille-sur-Têt Organs",
+        "lat": "42.666667",
+        "lng": "2.616667",
+        "type": "natural"
+      },
+      {
+        "name": "Monet's garden",
+        "lat": "49.075",
+        "lng": "1.777778",
+        "type": "natural"
+      },
+      {
+        "name": "Virgin Island",
+        "lat": "48.583333",
+        "lng": "-2.016667",
+        "type": "natural"
+      },
+      {
+        "name": "White Lake - Aiguilles Rouges",
+        "lat": "45.9231",
+        "lng": "6.8697",
+        "type": "natural"
+      },
+      {
+        "name": "The Ocher",
+        "lat": "43.9",
+        "lng": "5.1",
+        "type": "natural"
+      },
+      {
+        "name": "Massif of Esterel",
+        "lat": "43.45",
+        "lng": "6.85",
+        "type": "natural"
+      },
+      {
+        "name": "Lavender fields of the Velensole Plateau",
+        "lat": "43.85",
+        "lng": "5.983333",
+        "type": "natural"
+      },
+      {
+        "name": "Désert des Agriates",
+        "lat": "42.666667",
+        "lng": "9.25",
+        "type": "natural"
+      },
+      {
+        "name": "Cirque de Gavarnie",
+        "lat": "42.7",
+        "lng": "0.016667",
+        "type": "natural"
+      },
+      {
+        "name": "Burgundy",
+        "lat": "47.083333",
+        "lng": "4.833333",
+        "type": "natural"
+      }
+    ]
+  },
+  {
+    "country": "BE",
+    "locations": [
+      {
+        "name": "Antwerpen",
+        "lat": "51.217778",
+        "lng": "4.400278",
+        "type": "city"
+      },
+      {
+        "name": "Gent",
+        "lat": "51.053611",
+        "lng": "3.725278",
+        "type": "city"
+      },
+      {
+        "name": "Brussels",
+        "lat": "50.85045",
+        "lng": "4.34878",
+        "type": "city"
+      },
+      {
+        "name": "Brugge",
+        "lat": "51.208889",
+        "lng": "3.224167",
+        "type": "city"
+      },
+      {
+        "name": "Leuven",
+        "lat": "50.87959",
+        "lng": "4.70093",
+        "type": "city"
+      },
+      {
+        "name": "Mons",
+        "lat": "50.45413",
+        "lng": "3.95229",
+        "type": "city"
+      },
+      {
+        "name": "Mechelen",
+        "lat": "51.02574",
+        "lng": "4.47762",
+        "type": "city"
+      },
+      {
+        "name": "Liège",
+        "lat": "50.639722",
+        "lng": "5.570556",
+        "type": "city"
+      },
+      {
+        "name": "The Hallerbos Forest",
+        "lat": "50.7122",
+        "lng": "4.2695",
+        "type": "natural"
+      }
+    ]
+  },
+  {
+    "country": "NL",
+    "locations": [
+      {
+        "name": "Ameland",
+        "lat": "53.45",
+        "lng": "5.766667",
+        "type": "city"
+      },
+      {
+        "name": "Amsterdam",
+        "lat": "52.37403",
+        "lng": "4.88969",
+        "type": "city"
+      },
+      {
+        "name": "Arnhem",
+        "lat": "51.98",
+        "lng": "5.91111",
+        "type": "city"
+      },
+      {
+        "name": "Bourtange",
+        "lat": "53.0066",
+        "lng": "7.192",
+        "type": "city"
+      },
+      {
+        "name": "Eindhoven",
+        "lat": "51.44083",
+        "lng": "5.47778",
+        "type": "city"
+      },
+      {
+        "name": "Giethoorn",
+        "lat": "52.74",
+        "lng": "6.07917",
+        "type": "city"
+      },
+      {
+        "name": "Groningen",
+        "lat": "53.21917",
+        "lng": "6.56667",
+        "type": "city"
+      },
+      {
+        "name": "Haarlem",
+        "lat": "52.38084",
+        "lng": "4.63683",
+        "type": "city"
+      },
+      {
+        "name": "'s Hertogenbosch",
+        "lat": "51.683333",
+        "lng": "5.3",
+        "type": "city"
+      },
+      {
+        "name": "Maastricht",
+        "lat": "50.84833",
+        "lng": "5.68889",
+        "type": "city"
+      },
+      {
+        "name": "Rotterdam",
+        "lat": "51.9225",
+        "lng": "4.47917",
+        "type": "city"
+      },
+      {
+        "name": "The Hague",
+        "lat": "52.07667",
+        "lng": "4.29861",
+        "type": "city"
+      },
+      {
+        "name": "Utrecht",
+        "lat": "52.09083",
+        "lng": "5.12222",
+        "type": "city"
+      },
+      {
+        "name": "De Biesbosch National Park",
+        "lat": "51.733333",
+        "lng": "4.75",
+        "type": "natural"
+      },
+      {
+        "name": "De Hoge Veluwe National Park",
+        "lat": "52.083333",
+        "lng": "5.8",
+        "type": "natural"
+      },
+      {
+        "name": "De Maasduinen National Park",
+        "lat": "51.583333",
+        "lng": "6.083333",
+        "type": "natural"
+      },
+      {
+        "name": "Epen",
+        "lat": "50.783333",
+        "lng": "5.916667",
+        "type": "city"
+      },
+      {
+        "name": "Zwolle",
+        "lat": "52.516667",
+        "lng": "6.1",
+        "type": "city"
+      },
+      {
+        "name": "Nationaal Park Veluwezoom",
+        "lat": "52.033333",
+        "lng": "5.95",
+        "type": "natural"
+      },
+      {
+        "name": "Nieuw Land National Park",
+        "lat": "52.58",
+        "lng": "5.38",
+        "type": "natural"
+      },
+      {
+        "name": "South Limburg Hills",
+        "lat": "50.8",
+        "lng": "5.9",
+        "type": "natural"
+      },
+      {
+        "name": "The Wadden Sea",
+        "lat": "53.364",
+        "lng": "6.2",
+        "type": "natural"
+      },
+      {
+        "name": "Utrechtse Heuvelrug National Park",
+        "lat": "52.025",
+        "lng": "5.437",
+        "type": "natural"
+      },
+      {
+        "name": "Zandenplas",
+        "lat": "52.3735",
+        "lng": "5.817",
+        "type": "natural"
+      }
+    ]
+  },
+  {
+    "country": "DE",
+    "locations": [
+      {
+        "name": "Düsseldorf",
+        "lat": "51.22172",
+        "lng": "6.77616",
+        "type": "city"
+      },
+      {
+        "name": "Köln",
+        "lat": "50.936389",
+        "lng": "6.952778",
+        "type": "city"
+      },
+      {
+        "name": "Essen",
+        "lat": "51.450833",
+        "lng": "7.013056",
+        "type": "city"
+      },
+      {
+        "name": "Dortmund",
+        "lat": "51.51494",
+        "lng": "7.466",
+        "type": "city"
+      },
+      {
+        "name": "Bonn",
+        "lat": "50.73438",
+        "lng": "7.09549",
+        "type": "city"
+      },
+      {
+        "name": "Duisburg",
+        "lat": "51.43247",
+        "lng": "6.76516",
+        "type": "city"
+      },
+      {
+        "name": "Frankfurt am Main",
+        "lat": "50.110556",
+        "lng": "8.682222",
+        "type": "city"
+      },
+      {
+        "name": "Saarbrücken",
+        "lat": "49.23262",
+        "lng": "7.00982",
+        "type": "city"
+      },
+      {
+        "name": "Stuttgart",
+        "lat": "48.78232",
+        "lng": "9.17702",
+        "type": "city"
+      },
+      {
+        "name": "Heidelberg",
+        "lat": "49.40768",
+        "lng": "8.69079",
+        "type": "city"
+      },
+      {
+        "name": "Bremen",
+        "lat": "53.07582",
+        "lng": "8.80717",
+        "type": "city"
+      },
+      {
+        "name": "Hannover",
+        "lat": "52.366667",
+        "lng": "9.716667",
+        "type": "city"
+      },
+      {
+        "name": "Hamburg",
+        "lat": "53.55073",
+        "lng": "9.99302",
+        "type": "city"
+      },
+      {
+        "name": "Kiel",
+        "lat": "54.32133",
+        "lng": "10.13489",
+        "type": "city"
+      },
+      {
+        "name": "Berlin",
+        "lat": "52.52437",
+        "lng": "13.41053",
+        "type": "city"
+      },
+      {
+        "name": "Potsdam",
+        "lat": "52.39886",
+        "lng": "13.06566",
+        "type": "city"
+      },
+      {
+        "name": "Leipzig",
+        "lat": "51.33962",
+        "lng": "12.37129",
+        "type": "city"
+      },
+      {
+        "name": "Dresden",
+        "lat": "51.05089",
+        "lng": "13.73832",
+        "type": "city"
+      },
+      {
+        "name": "Nuremberg",
+        "lat": "49.453889",
+        "lng": "11.0775",
+        "type": "city"
+      },
+      {
+        "name": "Munich",
+        "lat": "48.13743",
+        "lng": "11.57549",
+        "type": "city"
+      },
+      {
+        "name": "Münster",
+        "lat": "51.9625",
+        "lng": "7.625556",
+        "type": "city"
+      },
+      {
+        "name": "Augsburg",
+        "lat": "48.37154",
+        "lng": "10.89851",
+        "type": "city"
+      },
+      {
+        "name": "Neuschwanstein",
+        "lat": "47.557489",
+        "lng": "10.749442",
+        "type": "city"
+      },
+      {
+        "name": "Füssen",
+        "lat": "47.566667",
+        "lng": "10.7",
+        "type": "city"
+      },
+      {
+        "name": "Berchtesgaden",
+        "lat": "47.63236",
+        "lng": "13.00187",
+        "type": "city"
+      },
+      {
+        "name": "Regensburg",
+        "lat": "49.01513",
+        "lng": "12.10161",
+        "type": "city"
+      },
+      {
+        "name": "Würzburg",
+        "lat": "49.79391",
+        "lng": "9.95121",
+        "type": "city"
+      },
+      {
+        "name": "Rüdesheim am Rhein",
+        "lat": "49.9789",
+        "lng": "7.92442",
+        "type": "city"
+      },
+      {
+        "name": "Lübeck",
+        "lat": "53.86893",
+        "lng": "10.68729",
+        "type": "city"
+      },
+      {
+        "name": "Trier",
+        "lat": "49.75565",
+        "lng": "6.63935",
+        "type": "city"
+      },
+      {
+        "name": "Koblenz",
+        "lat": "50.35357",
+        "lng": "7.57883",
+        "type": "city"
+      },
+      {
+        "name": "Mannheim",
+        "lat": "49.4891",
+        "lng": "8.46694",
+        "type": "city"
+      },
+      {
+        "name": "Schwerin",
+        "lat": "53.62937",
+        "lng": "11.41316",
+        "type": "city"
+      },
+      {
+        "name": "Freiburg",
+        "lat": "47.9959",
+        "lng": "7.85222",
+        "type": "city"
+      },
+      {
+        "name": "Würzburg",
+        "lat": "49.79391",
+        "lng": "9.95121",
+        "type": "city"
+      },
+      {
+        "name": "Konstanz",
+        "lat": "47.66033",
+        "lng": "9.17582",
+        "type": "city"
+      },
+      {
+        "name": "Rosenheim",
+        "lat": "47.85637",
+        "lng": "12.12247",
+        "type": "city"
+      },
+      {
+        "name": "Garmisch-Partenkirchen",
+        "lat": "47.49209",
+        "lng": "11.09576",
+        "type": "city"
+      },
+      {
+        "name": "Black Forest",
+        "lat": "48.3",
+        "lng": "8.15",
+        "type": "natural"
+      },
+      {
+        "name": "Rakotzbrücke",
+        "lat": "51.583333",
+        "lng": "14.633333",
+        "type": "natural"
+      },
+      {
+        "name": "Bastei Bridge",
+        "lat": "50.961389",
+        "lng": "14.067778",
+        "type": "natural"
+      },
+      {
+        "name": "Schrecksee",
+        "lat": "47.466667",
+        "lng": "10.433333",
+        "type": "natural"
+      },
+      {
+        "name": "Lake Eibsee",
+        "lat": "47.441667",
+        "lng": "10.978889",
+        "type": "natural"
+      },
+      {
+        "name": "Rügen Island",
+        "lat": "54.5",
+        "lng": "13.5",
+        "type": "natural"
+      },
+      {
+        "name": "Externsteine",
+        "lat": "51.883333",
+        "lng": "8.933333",
+        "type": "natural"
+      },
+      {
+        "name": "Königssee Lake",
+        "lat": "47.583333",
+        "lng": "12.983333",
+        "type": "natural"
+      },
+      {
+        "name": "Blautopf",
+        "lat": "48.416667",
+        "lng": "9.733333",
+        "type": "natural"
+      },
+      {
+        "name": "Elbe Sandstone Mountains",
+        "lat": "50.916667",
+        "lng": "14.083333",
+        "type": "natural"
+      },
+      {
+        "name": "Lüneburg Heath",
+        "lat": "53.083333",
+        "lng": "10.333333",
+        "type": "natural"
+      },
+      {
+        "name": "Triberg Waterfalls",
+        "lat": "48.133333",
+        "lng": "8.216667",
+        "type": "natural"
+      },
+      {
+        "name": "Saar Loop at Mettlach",
+        "lat": "49.5",
+        "lng": "6.633333",
+        "type": "natural"
+      }
+    ]
+  },
+  {
+    "country": "IT",
+    "locations": [
+      {
+        "name": "Turin",
+        "lat": "45.07049",
+        "lng": "7.68682",
+        "type": "city"
+      },
+      {
+        "name": "Milano",
+        "lat": "45.466944",
+        "lng": "9.19",
+        "type": "city"
+      },
+      {
+        "name": "Genoa",
+        "lat": "44.40478",
+        "lng": "8.94439",
+        "type": "city"
+      },
+      {
+        "name": "Bergamo",
+        "lat": "45.69601",
+        "lng": "9.66721",
+        "type": "city"
+      },
+      {
+        "name": "Verona",
+        "lat": "45.4299",
+        "lng": "10.98444",
+        "type": "city"
+      },
+      {
+        "name": "Vicenza",
+        "lat": "45.54672",
+        "lng": "11.5475",
+        "type": "city"
+      },
+      {
+        "name": "Padova",
+        "lat": "45.416667",
+        "lng": "11.866667",
+        "type": "city"
+      },
+      {
+        "name": "Venice",
+        "lat": "45.43713",
+        "lng": "12.33265",
+        "type": "city"
+      },
+      {
+        "name": "Trieste",
+        "lat": "45.64953",
+        "lng": "13.77678",
+        "type": "city"
+      },
+      {
+        "name": "Bologna",
+        "lat": "44.49381",
+        "lng": "11.33875",
+        "type": "city"
+      },
+      {
+        "name": "Florence",
+        "lat": "43.77925",
+        "lng": "11.24626",
+        "type": "city"
+      },
+      {
+        "name": "Modena",
+        "lat": "44.64783",
+        "lng": "10.92539",
+        "type": "city"
+      },
+      {
+        "name": "Pisa",
+        "lat": "43.70853",
+        "lng": "10.4036",
+        "type": "city"
+      },
+      {
+        "name": "Parma",
+        "lat": "44.79935",
+        "lng": "10.32618",
+        "type": "city"
+      },
+      {
+        "name": "Amalfi",
+        "lat": "40.6349",
+        "lng": "14.60238",
+        "type": "city"
+      },
+      {
+        "name": "Cinque Terre",
+        "lat": "44.119444",
+        "lng": "9.716667",
+        "type": "city"
+      },
+      {
+        "name": "Sorrento",
+        "lat": "40.62678",
+        "lng": "14.37771",
+        "type": "city"
+      },
+      {
+        "name": "Toscana",
+        "lat": "43.771389",
+        "lng": "11.254167",
+        "type": "city"
+      },
+      {
+        "name": "Montepulciano",
+        "lat": "43.1",
+        "lng": "11.783333",
+        "type": "city"
+      },
+      {
+        "name": "Pienza",
+        "lat": "43.078611",
+        "lng": "11.678889",
+        "type": "city"
+      },
+      {
+        "name": "Montalcino",
+        "lat": "43.059167",
+        "lng": "11.489167",
+        "type": "city"
+      },
+      {
+        "name": "Siena",
+        "lat": "43.318333",
+        "lng": "11.331389",
+        "type": "city"
+      },
+      {
+        "name": "San Gimignano",
+        "lat": "43.467719",
+        "lng": "11.043221",
+        "type": "city"
+      },
+      {
+        "name": "Volterra",
+        "lat": "43.4",
+        "lng": "10.866667",
+        "type": "city"
+      },
+      {
+        "name": "Fiumicino",
+        "lat": "41.766667",
+        "lng": "12.233333",
+        "type": "city"
+      },
+      {
+        "name": "Ferrara",
+        "lat": "44.833333",
+        "lng": "11.616667",
+        "type": "city"
+      },
+      {
+        "name": "Rome",
+        "lat": "41.89193",
+        "lng": "12.51133",
+        "type": "city"
+      },
+      {
+        "name": "Assisi",
+        "lat": "43.06671",
+        "lng": "12.62109",
+        "type": "city"
+      },
+      {
+        "name": "Napoli",
+        "lat": "40.85216",
+        "lng": "14.26811",
+        "type": "city"
+      },
+      {
+        "name": "Catania",
+        "lat": "37.49223",
+        "lng": "15.07041",
+        "type": "city"
+      },
+      {
+        "name": "Palermo",
+        "lat": "38.1166",
+        "lng": "13.3636",
+        "type": "city"
+      },
+      {
+        "name": "Salerno",
+        "lat": "40.67545",
+        "lng": "14.79328",
+        "type": "city"
+      },
+      {
+        "name": "Bari",
+        "lat": "41.12066",
+        "lng": "16.86982",
+        "type": "city"
+      },
+      {
+        "name": "Trento",
+        "lat": "46.06787",
+        "lng": "11.12108",
+        "type": "city"
+      },
+      {
+        "name": "Bolzano",
+        "lat": "46.49067",
+        "lng": "11.33982",
+        "type": "city"
+      },
+      {
+        "name": "Mantova",
+        "lat": "45.156389",
+        "lng": "10.791111",
+        "type": "city"
+      },
+      {
+        "name": "Ortisei",
+        "lat": "46.566667",
+        "lng": "11.666667",
+        "type": "city"
+      },
+      {
+        "name": "Corvara",
+        "lat": "42.27511",
+        "lng": "13.87363",
+        "type": "city"
+      },
+      {
+        "name": "Cortina d'Ampezzo",
+        "lat": "46.5369",
+        "lng": "12.13903",
+        "type": "city"
+      },
+      {
+        "name": "Dolomites",
+        "lat": "46.5",
+        "lng": "11.75",
+        "type": "natural"
+      },
+      {
+        "name": "Sardinia",
+        "lat": "40",
+        "lng": "9",
+        "type": "city"
+      },
+      {
+        "name": "Lago di Como",
+        "lat": "46",
+        "lng": "9.266667",
+        "type": "natural"
+      },
+      {
+        "name": "Sicilia",
+        "lat": "37.6000",
+        "lng": "14.0154",
+        "type": "city"
+      }
+    ]
+  },
+  {
+    "country": "CH",
+    "locations": [
+      {
+        "name": "Bern",
+        "lat": "46.94809",
+        "lng": "7.44744",
+        "type": "city"
+      },
+      {
+        "name": "Genève",
+        "lat": "46.201667",
+        "lng": "6.146944",
+        "type": "city"
+      },
+      {
+        "name": "Lausanne",
+        "lat": "46.516",
+        "lng": "6.63282",
+        "type": "city"
+      },
+      {
+        "name": "Lucerne",
+        "lat": "47.05",
+        "lng": "8.3",
+        "type": "city"
+      },
+      {
+        "name": "Lugano",
+        "lat": "46.01008",
+        "lng": "8.96004",
+        "type": "city"
+      },
+      {
+        "name": "Zürich",
+        "lat": "47.36667",
+        "lng": "8.55",
+        "type": "city"
+      },
+      {
+        "name": "Basel",
+        "lat": "47.55839",
+        "lng": "7.57327",
+        "type": "city"
+      },
+      {
+        "name": "Grindelwald",
+        "lat": "46.62396",
+        "lng": "8.03601",
+        "type": "city"
+      },
+      {
+        "name": "Interlaken",
+        "lat": "46.68387",
+        "lng": "7.86638",
+        "type": "city"
+      },
+      {
+        "name": "Lauterbrunnen",
+        "lat": "46.59307",
+        "lng": "7.90938",
+        "type": "city"
+      },
+      {
+        "name": "Biel-Bienne",
+        "lat": "47.133333",
+        "lng": "7.25",
+        "type": "city"
+      },
+      {
+        "name": "Fribourg",
+        "lat": "46.80237",
+        "lng": "7.15128",
+        "type": "city"
+      },
+      {
+        "name": "Thun",
+        "lat": "46.75118",
+        "lng": "7.62166",
+        "type": "city"
+      },
+      {
+        "name": "Bellinzona",
+        "lat": "46.19278",
+        "lng": "9.01703",
+        "type": "city"
+      },
+      {
+        "name": "St. Gallen",
+        "lat": "47.424167",
+        "lng": "9.370833",
+        "type": "city"
+      },
+      {
+        "name": "Gruyères",
+        "lat": "46.58338",
+        "lng": "7.08207",
+        "type": "city"
+      },
+      {
+        "name": "Brienz",
+        "lat": "46.7545",
+        "lng": "8.03847",
+        "type": "city"
+      },
+      {
+        "name": "Montreux",
+        "lat": "46.43301",
+        "lng": "6.91143",
+        "type": "city"
+      },
+      {
+        "name": "Vevey",
+        "lat": "46.46299",
+        "lng": "6.84345",
+        "type": "city"
+      },
+      {
+        "name": "Mürren",
+        "lat": "46.559444",
+        "lng": "7.892222",
+        "type": "city"
+      },
+      {
+        "name": "Stein am Rhein",
+        "lat": "47.65933",
+        "lng": "8.85964",
+        "type": "city"
+      },
+      {
+        "name": "Zermatt",
+        "lat": "46.01998",
+        "lng": "7.74863",
+        "type": "city"
+      },
+      {
+        "name": "Locarno",
+        "lat": "46.17086",
+        "lng": "8.79953",
+        "type": "city"
+      },
+      {
+        "name": "Appenzell District",
+        "lat": "47.333333",
+        "lng": "9.416667",
+        "type": "city"
+      },
+      {
+        "name": "Engelberg",
+        "lat": "46.82107",
+        "lng": "8.40133",
+        "type": "city"
+      },
+      {
+        "name": "St. Moritz",
+        "lat": "46.49937",
+        "lng": "9.84327",
+        "type": "city"
+      },
+      {
+        "name": "Jungfrau Region",
+        "lat": "46.583333",
+        "lng": "7.983333",
+        "type": "city"
+      },
+      {
+        "name": "Swiss Grand Canyon",
+        "lat": "46.5",
+        "lng": "8.5",
+        "type": "natural"
+      },
+      {
+        "name": "Lake Lucerne",
+        "lat": "46.995",
+        "lng": "8.336",
+        "type": "natural"
+      },
+      {
+        "name": "Lake Geneva",
+        "lat": "46.4",
+        "lng": "6.6",
+        "type": "natural"
+      }
+    ]
+  },
+  {
+    "country": "AT",
+    "locations": [
+      {
+        "name": "Vienna",
+        "lat": "48.20849",
+        "lng": "16.37208",
+        "type": "city"
+      },
+      {
+        "name": "Salzburg",
+        "lat": "47.79941",
+        "lng": "13.04399",
+        "type": "city"
+      },
+      {
+        "name": "Innsbruck",
+        "lat": "47.26266",
+        "lng": "11.39454",
+        "type": "city"
+      },
+      {
+        "name": "Graz",
+        "lat": "47.06667",
+        "lng": "15.45",
+        "type": "city"
+      },
+      {
+        "name": "Linz",
+        "lat": "48.30639",
+        "lng": "14.28611",
+        "type": "city"
+      },
+      {
+        "name": "Hallstatt",
+        "lat": "47.562",
+        "lng": "13.649",
+        "type": "city"
+      },
+      {
+        "name": "Bad Gastein",
+        "lat": "47.1",
+        "lng": "13.016667",
+        "type": "city"
+      },
+      {
+        "name": "Wörthersee",
+        "lat": "46.625",
+        "lng": "14.15",
+        "type": "city"
+      },
+      {
+        "name": "Zell am See",
+        "lat": "47.32306",
+        "lng": "12.79839",
+        "type": "city"
+      },
+      {
+        "name": "Salzkammergut",
+        "lat": "47.8794",
+        "lng": "13.5183",
+        "type": "city"
+      },
+      {
+        "name": "Bregenz",
+        "lat": "47.50311",
+        "lng": "9.7471",
+        "type": "city"
+      },
+      {
+        "name": "Mostviertel",
+        "lat": "48.1770",
+        "lng": "15.6161",
+        "type": "region"
+      },
+      {
+        "name": "Wachau",
+        "lat": "51.1601",
+        "lng": "13.9036",
+        "type": "city"
+      },
+      {
+        "name": "Schladming",
+        "lat": "47.39289",
+        "lng": "13.68699",
+        "type": "city"
+      },
+      {
+        "name": "Kitzbuhel",
+        "lat": "47.4492",
+        "lng": "12.3925",
+        "type": "city"
+      },
+      {
+        "name": "Zillertal Alps",
+        "lat": "47.166667",
+        "lng": "11.833333",
+        "type": "natural"
+      },
+      {
+        "name": "Krimml Waterfalls",
+        "lat": "47.233333",
+        "lng": "12.166667",
+        "type": "natural"
+      },
+      {
+        "name": "Hoher Dachstein",
+        "lat": "47.483333",
+        "lng": "13.633333",
+        "type": "natural"
+      },
+      {
+        "name": "Vorarlberg",
+        "lat": "47.5",
+        "lng": "9.75",
+        "type": "region"
+      },
+      {
+        "name": "Tyrol",
+        "lat": "47.266667",
+        "lng": "11.383333",
+        "type": "region"
+      },
+      {
+        "name": "National Park Donau Auen",
+        "lat": "48.2",
+        "lng": "16.7",
+        "type": "natural"
+      },
+      {
+        "name": "Vienna Woods",
+        "lat": "48.2",
+        "lng": "16.3",
+        "type": "natural"
+      }
+    ]
+  },
+  {
+    "country": "PL",
+    "locations": [
+      {
+        "name": "Szczecin",
+        "lat": "53.42894",
+        "lng": "14.55302",
+        "type": "city"
+      },
+      {
+        "name": "Gdánsk",
+        "lat": "54.3520",
+        "lng": "18.6466",
+        "type": "city"
+      },
+      {
+        "name": "Wrocław",
+        "lat": "51.1079",
+        "lng": "17.0385",
+        "type": "city"
+      },
+      {
+        "name": "Kraków",
+        "lat": "50.0647",
+        "lng": "19.9450",
+        "type": "city"
+      },
+      {
+        "name": "Warsaw",
+        "lat": "52.22977",
+        "lng": "21.01178",
+        "type": "city"
+      },
+      {
+        "name": "Poznań",
+        "lat": "52.4064",
+        "lng": "16.9252",
+        "type": "city"
+      },
+      {
+        "name": "Katowice",
+        "lat": "50.25841",
+        "lng": "19.02754",
+        "type": "city"
+      },
+      {
+        "name": "Łódź",
+        "lat": "51.7592",
+        "lng": "19.4560",
+        "type": "city"
+      },
+      {
+        "name": "Lublin",
+        "lat": "51.25",
+        "lng": "22.56667",
+        "type": "city"
+      },
+      {
+        "name": "Olsztyn",
+        "lat": "53.77995",
+        "lng": "20.49416",
+        "type": "city"
+      },
+      {
+        "name": "Zakopane",
+        "lat": "49.29899",
+        "lng": "19.94885",
+        "type": "city"
+      },
+      {
+        "name": "Białystok",
+        "lat": "53.1325",
+        "lng": "23.1688",
+        "type": "city"
+      },
+      {
+        "name": "Gdynia",
+        "lat": "54.51889",
+        "lng": "18.53188",
+        "type": "city"
+      },
+      {
+        "name": "Sopot",
+        "lat": "54.4418",
+        "lng": "18.56003",
+        "type": "city"
+      },
+      {
+        "name": "Toruń",
+        "lat": "53.0138",
+        "lng": "18.5984",
+        "type": "city"
+      },
+      {
+        "name": "Biecz",
+        "lat": "49.73596",
+        "lng": "21.26301",
+        "type": "city"
+      },
+      {
+        "name": "Malbork",
+        "lat": "54.03591",
+        "lng": "19.0266",
+        "type": "city"
+      },
+      {
+        "name": "Kazimierz Dolny",
+        "lat": "51.31911",
+        "lng": "21.95502",
+        "type": "city"
+      },
+      {
+        "name": "Zakopane",
+        "lat": "49.29899",
+        "lng": "19.94885",
+        "type": "city"
+      },
+      {
+        "name": "Sanok",
+        "lat": "49.55573",
+        "lng": "22.2056",
+        "type": "city"
+      }
+    ]
+  },
+  {
+    "country": "CZ",
+    "locations": [
+      {
+        "name": "Prague",
+        "lat": "50.08804",
+        "lng": "14.42076",
+        "type": "city"
+      },
+      {
+        "name": "Brno",
+        "lat": "49.19522",
+        "lng": "16.60796",
+        "type": "city"
+      },
+      {
+        "name": "Český Krumlov",
+        "lat": "48.8127",
+        "lng": "14.3175",
+        "type": "city"
+      },
+      {
+        "name": "Kutna Hora",
+        "lat": "49.9524",
+        "lng": "15.2687",
+        "type": "city"
+      },
+      {
+        "name": "Karlštejn",
+        "lat": "49.9397",
+        "lng": "14.1881",
+        "type": "city"
+      },
+      {
+        "name": "Sokolov",
+        "lat": "50.1813",
+        "lng": "12.6401",
+        "type": "city"
+      },
+      {
+        "name": "Ostrava",
+        "lat": "49.83465",
+        "lng": "18.28204",
+        "type": "city"
+      },
+      {
+        "name": "Karlovy Vary",
+        "lat": "50.23271",
+        "lng": "12.87117",
+        "type": "city"
+      },
+      {
+        "name": "Ústí nad Labem",
+        "lat": "50.6607",
+        "lng": "14.03227",
+        "type": "city"
+      }
+    ]
+  },
+  {
+    "country": "HU",
+    "locations": [
+      {
+        "name": "Székesfehérvár",
+        "lat": "47.1860",
+        "lng": "18.4221",
+        "type": "city"
+      },
+      {
+        "name": "Nyíregyháza",
+        "lat": "47.9495",
+        "lng": "21.7244",
+        "type": "city"
+      },
+      {
+        "name": "Miskolc",
+        "lat": "48.10306",
+        "lng": "20.77806",
+        "type": "city"
+      },
+      {
+        "name": "Sopron",
+        "lat": "47.68501",
+        "lng": "16.59049",
+        "type": "city"
+      },
+      {
+        "name": "Győr",
+        "lat": "47.6875",
+        "lng": "17.6504",
+        "type": "city"
+      },
+      {
+        "name": "Keszthely",
+        "lat": "46.76812",
+        "lng": "17.24317",
+        "type": "city"
+      },
+      {
+        "name": "Siófok",
+        "lat": "46.9091",
+        "lng": "18.0746",
+        "type": "city"
+      },
+      {
+        "name": "Debrecen",
+        "lat": "47.53167",
+        "lng": "21.62444",
+        "type": "city"
+      },
+      {
+        "name": "Pécs",
+        "lat": "46.0727",
+        "lng": "18.2323",
+        "type": "city"
+      },
+      {
+        "name": "Szeged",
+        "lat": "46.253",
+        "lng": "20.14824",
+        "type": "city"
+      },
+      {
+        "name": "Eger",
+        "lat": "47.90265",
+        "lng": "20.37329",
+        "type": "city"
+      },
+      {
+        "name": "Budapest",
+        "lat": "47.49835",
+        "lng": "19.04045",
+        "type": "city"
+      },
+      {
+        "name": "Szombathely",
+        "lat": "47.23088",
+        "lng": "16.62155",
+        "type": "city"
+      },
+      {
+        "name": "Szolnok",
+        "lat": "47.18333",
+        "lng": "20.2",
+        "type": "city"
+      }
+    ]
+  },
+  {
+    "country": "SK",
+    "locations": [
+      {
+        "name": "Bratislava",
+        "lat": "48.14816",
+        "lng": "17.10674",
+        "type": "city"
+      },
+      {
+        "name": "Košice",
+        "lat": "48.7164",
+        "lng": "21.2611",
+        "type": "city"
+      }
+    ]
+  },
+  {
+    "country": "HR",
+    "locations": [
+      {
+        "name": "Zagreb",
+        "lat": "45.81444",
+        "lng": "15.97798",
+        "type": "city"
+      },
+      {
+        "name": "Pula",
+        "lat": "44.86833",
+        "lng": "13.84806",
+        "type": "city"
+      },
+      {
+        "name": "Rijeka",
+        "lat": "45.32673",
+        "lng": "14.44241",
+        "type": "city"
+      },
+      {
+        "name": "Split",
+        "lat": "43.50891",
+        "lng": "16.43915",
+        "type": "city"
+      },
+      {
+        "name": "Dubrovnik",
+        "lat": "42.64125",
+        "lng": "18.10909",
+        "type": "city"
+      },
+      {
+        "name": "Zadar",
+        "lat": "44.11578",
+        "lng": "15.22514",
+        "type": "city"
+      },
+      {
+        "name": "Osijek",
+        "lat": "45.55111",
+        "lng": "18.69389",
+        "type": "city"
+      },
+      {
+        "name": "Korčula",
+        "lat": "42.9297",
+        "lng": "16.8886",
+        "type": "city"
+      },
+      {
+        "name": "Rovinj",
+        "lat": "45.08268",
+        "lng": "13.63457",
+        "type": "city"
+      },
+      {
+        "name": "Plitvice Lakes National Park",
+        "lat": "44.8654",
+        "lng": "15.5820",
+        "type": "city"
+      },
+      {
+        "name": "Krka National Park",
+        "lat": "43.8666",
+        "lng": "15.9725",
+        "type": "city"
+      }
+    ]
+  },
+  {
+    "country": "GB",
+    "locations": [
+      {
+        "name": "London",
+        "lat": "51.50853",
+        "lng": "-0.12574",
+        "type": "city"
+      },
+      {
+        "name": "Bath",
+        "lat": "51.3751",
+        "lng": "-2.36172",
+        "type": "city"
+      },
+      {
+        "name": "Oxford",
+        "lat": "51.75222",
+        "lng": "-1.25596",
+        "type": "city"
+      },
+      {
+        "name": "Cambridge",
+        "lat": "52.2",
+        "lng": "0.11667",
+        "type": "city"
+      },
+      {
+        "name": "York",
+        "lat": "53.95763",
+        "lng": "-1.08271",
+        "type": "city"
+      },
+      {
+        "name": "Liverpool",
+        "lat": "53.41058",
+        "lng": "-2.97794",
+        "type": "city"
+      },
+      {
+        "name": "Manchester",
+        "lat": "53.48095",
+        "lng": "-2.23743",
+        "type": "city"
+      },
+      {
+        "name": "Birmingham",
+        "lat": "52.48142",
+        "lng": "-1.89983",
+        "type": "city"
+      },
+      {
+        "name": "Norwich",
+        "lat": "52.62783",
+        "lng": "1.29834",
+        "type": "city"
+      },
+      {
+        "name": "Bristol",
+        "lat": "51.45523",
+        "lng": "-2.59665",
+        "type": "city"
+      },
+      {
+        "name": "Leeds",
+        "lat": "53.79648",
+        "lng": "-1.54785",
+        "type": "city"
+      },
+      {
+        "name": "Brighton",
+        "lat": "50.82838",
+        "lng": "-0.13947",
+        "type": "city"
+      },
+      {
+        "name": "Durham",
+        "lat": "54.77676",
+        "lng": "-1.57566",
+        "type": "city"
+      },
+      {
+        "name": "Nottingham",
+        "lat": "52.9536",
+        "lng": "-1.15047",
+        "type": "city"
+      },
+      {
+        "name": "Stratford-upon-Avon",
+        "lat": "52.19166",
+        "lng": "-1.70734",
+        "type": "city"
+      },
+      {
+        "name": "Bournemouth",
+        "lat": "50.72048",
+        "lng": "-1.8795",
+        "type": "city"
+      },
+      {
+        "name": "Newcastle",
+        "lat": "54.21804",
+        "lng": "-5.88979",
+        "type": "city"
+      },
+      {
+        "name": "St Ives",
+        "lat": "50.20861",
+        "lng": "-5.4875",
+        "type": "city"
+      },
+      {
+        "name": "Chester",
+        "lat": "53.1905",
+        "lng": "-2.89189",
+        "type": "city"
+      },
+      {
+        "name": "Leicester",
+        "lat": "52.6386",
+        "lng": "-1.13169",
+        "type": "city"
+      },
+      {
+        "name": "Canterbury",
+        "lat": "51.27904",
+        "lng": "1.07992",
+        "type": "city"
+      }
+    ]
+  },
+  {
+    "country": "GB",
+    "locations": [
+      {
+        "name": "Edinburgh",
+        "lat": "55.95206",
+        "lng": "-3.19648",
+        "type": "city"
+      },
+      {
+        "name": "Glasgow",
+        "lat": "55.86515",
+        "lng": "-4.25763",
+        "type": "city"
+      },
+      {
+        "name": "Aberdeen",
+        "lat": "57.14369",
+        "lng": "-2.09814",
+        "type": "city"
+      },
+      {
+        "name": "Dundee",
+        "lat": "56.46913",
+        "lng": "-2.97489",
+        "type": "city"
+      },
+      {
+        "name": "Inverness",
+        "lat": "57.47908",
+        "lng": "-4.22398",
+        "type": "city"
+      },
+      {
+        "name": "Perth",
+        "lat": "56.39522",
+        "lng": "-3.43139",
+        "type": "city"
+      },
+      {
+        "name": "Stirling",
+        "lat": "56.11903",
+        "lng": "-3.93682",
+        "type": "city"
+      },
+      {
+        "name": "Fort William",
+        "lat": "56.81648",
+        "lng": "-5.11208",
+        "type": "city"
+      },
+      {
+        "name": "Kirkwall",
+        "lat": "58.98479",
+        "lng": "-2.95873",
+        "type": "city"
+      },
+      {
+        "name": "Oban",
+        "lat": "56.41535",
+        "lng": "-5.47184",
+        "type": "city"
+      },
+      {
+        "name": "St Andrews",
+        "lat": "56.3398",
+        "lng": "-2.7967",
+        "type": "city"
+      },
+      {
+        "name": "Dunfermline",
+        "lat": "56.07156",
+        "lng": "-3.45887",
+        "type": "city"
+      }
+    ]
+  },
+  {
+    "country": "IE",
+    "locations": [
+      {
+        "name": "Dublin",
+        "lat": "53.33306",
+        "lng": "-6.24889",
+        "type": "city"
+      },
+      {
+        "name": "Cork",
+        "lat": "51.89797",
+        "lng": "-8.47061",
+        "type": "city"
+      },
+      {
+        "name": "Galway",
+        "lat": "53.27245",
+        "lng": "-9.05095",
+        "type": "city"
+      },
+      {
+        "name": "Donegal",
+        "lat": "54.65378",
+        "lng": "-8.11134",
+        "type": "city"
+      },
+      {
+        "name": "Killarney",
+        "lat": "52.0599",
+        "lng": "9.5044",
+        "type": "city"
+      },
+      {
+        "name": "Sligo",
+        "lat": "54.26969",
+        "lng": "-8.46943",
+        "type": "city"
+      },
+      {
+        "name": "Kilkenny",
+        "lat": "52.65417",
+        "lng": "-7.25222",
+        "type": "city"
+      },
+      {
+        "name": "Limerick",
+        "lat": "52.66472",
+        "lng": "-8.62306",
+        "type": "city"
+      },
+      {
+        "name": "Belfast",
+        "lat": "54.5973",
+        "lng": "-5.9301",
+        "type": "city"
+      },
+      {
+        "name": "Londonderry",
+        "lat": "54.9965",
+        "lng": "-7.3101",
+        "type": "city"
+      }
+    ]
+  },
+  {
+    "country": "ES",
+    "locations": [
+      {
+        "name": "Madrid",
+        "lat": "40.4165",
+        "lng": "-3.70256",
+        "type": "city"
+      },
+      {
+        "name": "Barcelona",
+        "lat": "41.38879",
+        "lng": "2.15899",
+        "type": "city"
+      },
+      {
+        "name": "Sevilla",
+        "lat": "37.3891",
+        "lng": "-5.9845",
+        "type": "city"
+      },
+      {
+        "name": "Granada",
+        "lat": "37.18817",
+        "lng": "-3.60667",
+        "type": "city"
+      },
+      {
+        "name": "Valencia",
+        "lat": "39.47391",
+        "lng": "-0.37966",
+        "type": "city"
+      },
+      {
+        "name": "Bilbao",
+        "lat": "43.26271",
+        "lng": "-2.92528",
+        "type": "city"
+      },
+      {
+        "name": "Málaga",
+        "lat": "36.7213",
+        "lng": "-4.4213",
+        "type": "city"
+      },
+      {
+        "name": "Córdoba",
+        "lat": "37.8882",
+        "lng": "-4.7794",
+        "type": "city"
+      },
+      {
+        "name": "Toledo",
+        "lat": "39.8581",
+        "lng": "-4.02263",
+        "type": "city"
+      },
+      {
+        "name": "Salamanca",
+        "lat": "40.96882",
+        "lng": "-5.66388",
+        "type": "city"
+      },
+      {
+        "name": "Zaragoza",
+        "lat": "41.65606",
+        "lng": "-0.87734",
+        "type": "city"
+      },
+      {
+        "name": "Santiago de Compostela",
+        "lat": "42.88052",
+        "lng": "-8.54569",
+        "type": "city"
+      },
+      {
+        "name": "San Sebastián",
+        "lat": "43.3183",
+        "lng": "-1.9812",
+        "type": "city"
+      },
+      {
+        "name": "Segovia",
+        "lat": "40.94808",
+        "lng": "-4.11839",
+        "type": "city"
+      },
+      {
+        "name": "Cádiz",
+        "lat": "36.5210",
+        "lng": "-6.2805",
+        "type": "city"
+      },
+      {
+        "name": "Marbella",
+        "lat": "36.51543",
+        "lng": "-4.88583",
+        "type": "city"
+      },
+      {
+        "name": "Almería",
+        "lat": "36.8340",
+        "lng": "-2.4637",
+        "type": "city"
+      },
+      {
+        "name": "Cartagena",
+        "lat": "37.60197",
+        "lng": "-0.98397",
+        "type": "city"
+      },
+      {
+        "name": "Castellón de la Plana",
+        "lat": "39.9856",
+        "lng": "0.0496",
+        "type": "city"
+      },
+      {
+        "name": "Alicante",
+        "lat": "38.34517",
+        "lng": "-0.48149",
+        "type": "city"
+      },
+      {
+        "name": "Tarragona",
+        "lat": "41.11905",
+        "lng": "1.24544",
+        "type": "city"
+      },
+      {
+        "name": "Girona",
+        "lat": "41.98311",
+        "lng": "2.82493",
+        "type": "city"
+      },
+      {
+        "name": "Palma",
+        "lat": "39.56939",
+        "lng": "2.65024",
+        "type": "city"
+      },
+      {
+        "name": "Ibiza",
+        "lat": "38.90883",
+        "lng": "1.43296",
+        "type": "city"
+      },
+      {
+        "name": "Pamplona",
+        "lat": "42.81687",
+        "lng": "-1.64323",
+        "type": "city"
+      },
+      {
+        "name": "Oviedo",
+        "lat": "43.36029",
+        "lng": "-5.84476",
+        "type": "city"
+      },
+      {
+        "name": "Santander",
+        "lat": "43.46472",
+        "lng": "-3.80444",
+        "type": "city"
+      },
+      {
+        "name": "Valladolid",
+        "lat": "41.65518",
+        "lng": "-4.72372",
+        "type": "city"
+      },
+      {
+        "name": "Logroño",
+        "lat": "42.46667",
+        "lng": "-2.45",
+        "type": "city"
+      },
+      {
+        "name": "Burgos",
+        "lat": "42.34106",
+        "lng": "-3.70184",
+        "type": "city"
+      },
+      {
+        "name": "León",
+        "lat": "42.60003",
+        "lng": "-5.57032",
+        "type": "city"
+      },
+      {
+        "name": "Gijón",
+        "lat": "43.53573",
+        "lng": "-5.66152",
+        "type": "city"
+      },
+      {
+        "name": "Lugo",
+        "lat": "43.00992",
+        "lng": "-7.55602",
+        "type": "city"
+      },
+      {
+        "name": "Vigo",
+        "lat": "42.23282",
+        "lng": "-8.72264",
+        "type": "city"
+      },
+      {
+        "name": "A Coruña",
+        "lat": "43.37135",
+        "lng": "-8.396",
+        "type": "city"
+      },
+      {
+        "name": "Ourense",
+        "lat": "42.33669",
+        "lng": "-7.86407",
+        "type": "city"
+      },
+      {
+        "name": "Pontevedra",
+        "lat": "42.431",
+        "lng": "-8.64435",
+        "type": "city"
+      },
+      {
+        "name": "Tenerife",
+        "lat": "28.4636",
+        "lng": "-16.2518",
+        "type": "city"
+      },
+      {
+        "name": "Ávila",
+        "lat": "40.6567",
+        "lng": "-4.6812",
+        "type": "city"
+      },
+      {
+        "name": "Real Sitio de San Ildefonso",
+        "lat": "40.9021",
+        "lng": "-4.0073",
+        "type": "city"
+      },
+      {
+        "name": "Guadalajara",
+        "lat": "40.62862",
+        "lng": "-3.16185",
+        "type": "city"
+      },
+      {
+        "name": "Vitoria",
+        "lat": "42.8532",
+        "lng": "-2.6732",
+        "type": "city"
+      },
+      {
+        "name": "Badajoz",
+        "lat": "38.87789",
+        "lng": "-6.97061",
+        "type": "city"
+      },
+      {
+        "name": "Olivenza",
+        "lat": "38.68269",
+        "lng": "-7.10046",
+        "type": "city"
+      },
+      {
+        "name": "Albarracín",
+        "lat": "40.40818",
+        "lng": "-1.44375",
+        "type": "city"
+      },
+      {
+        "name": "Zahara de la sierra",
+        "lat": "36.8395",
+        "lng": "-5.3920",
+        "type": "city"
+      },
+      {
+        "name": "Morella",
+        "lat": "40.61966",
+        "lng": "-0.09892",
+        "type": "city"
+      },
+      {
+        "name": "Burgo de Osma",
+        "lat": "41.5876",
+        "lng": "-3.0669",
+        "type": "city"
+      },
+      {
+        "name": "Ronda",
+        "lat": "36.74231",
+        "lng": "-5.16709",
+        "type": "city"
+      },
+      {
+        "name": "Cáceres",
+        "lat": "39.4751",
+        "lng": "-6.3715",
+        "type": "city"
+      },
+      {
+        "name": "Aviles",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Puerto de Vega",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Tapia de Casariego",
+        "lat": "43.57019",
+        "lng": "-6.94383",
+        "type": "city"
+      },
+      {
+        "name": "Luarca",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Navia",
+        "lat": "43.53544",
+        "lng": "-6.71935",
+        "type": "city"
+      },
+      {
+        "name": "Cudillero",
+        "lat": "43.56217",
+        "lng": "-6.14589",
+        "type": "city"
+      },
+      {
+        "name": "Luanco",
+        "lat": "43.61517",
+        "lng": "-5.79344",
+        "type": "city"
+      },
+      {
+        "name": "Bandujo",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Bowls",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Lastres",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Ribadesella",
+        "lat": "43.46145",
+        "lng": "-5.05955",
+        "type": "city"
+      },
+      {
+        "name": "Llanes",
+        "lat": "43.41982",
+        "lng": "-4.75485",
+        "type": "city"
+      },
+      {
+        "name": "Bulnes",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Espinaréu",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Cangas de Onís",
+        "lat": "43.3514",
+        "lng": "-5.12916",
+        "type": "city"
+      },
+      {
+        "name": "Taramundi",
+        "lat": "43.3602",
+        "lng": "-7.10828",
+        "type": "city"
+      },
+      {
+        "name": "Arenas de Cabrales",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Río Eo, Osco y Terras de Burón",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Fuentes del Narcea, Degaña and Ibias Natural Park",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Somiedo Natural Park",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Ubiñas-La Mesa Natural Park",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Redes Natural Park",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Ponga Natural Park",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Picos de Europa",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Silencio",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Gulpiyuri",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Rodiles",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Torimbia",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Ballota",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Poó",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Andrín",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Penarronda",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Aguilar",
+        "lat": "37.51476",
+        "lng": "-4.65717",
+        "type": "city"
+      },
+      {
+        "name": "Guadamía",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "San Antonio",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Borizo",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Sablón",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Cobijeru",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "La Franca",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "El Rogolgueru",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Cuevas del Mar",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Cadavedo / La Ribeirona",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Bufones de Pría",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "La Cuevona de Cueves",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Alto de L'Angliru",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Cabo Vidio",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Lakes of Covadonga",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Sanctuary of Covadonga",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Oneta Waterfalls",
+        "lat": 0,
+        "lng": 0
+      }
+    ]
+  },
+  {
+    "country": "PT",
+    "locations": [
+      {
+        "name": "Lisbon",
+        "lat": "38.71667",
+        "lng": "-9.13333",
+        "type": "city"
+      },
+      {
+        "name": "Porto",
+        "lat": "41.14961",
+        "lng": "-8.61099",
+        "type": "city"
+      },
+      {
+        "name": "Coimbra",
+        "lat": "40.20564",
+        "lng": "-8.41955",
+        "type": "city"
+      },
+      {
+        "name": "Sintra",
+        "lat": "38.80097",
+        "lng": "-9.37826",
+        "type": "city"
+      },
+      {
+        "name": "Braga",
+        "lat": "41.55032",
+        "lng": "-8.42005",
+        "type": "city"
+      },
+      {
+        "name": "Faro",
+        "lat": "37.01869",
+        "lng": "-7.92716",
+        "type": "city"
+      },
+      {
+        "name": "Lagos",
+        "lat": "37.10202",
+        "lng": "-8.67422",
+        "type": "city"
+      },
+      {
+        "name": "Funchal",
+        "lat": "32.66568",
+        "lng": "-16.92547",
+        "type": "city"
+      }
+    ]
+  },
+  {
+    "country": "SE",
+    "locations": [
+      {
+        "name": "Stockholm",
+        "lat": "59.32938",
+        "lng": "18.06871",
+        "type": "city"
+      },
+      {
+        "name": "Gothenburg",
+        "lat": "57.7089",
+        "lng": "11.9746",
+        "type": "city"
+      },
+      {
+        "name": "Malmö",
+        "lat": "55.60587",
+        "lng": "13.00073",
+        "type": "city"
+      },
+      {
+        "name": "Uppsala",
+        "lat": "59.85882",
+        "lng": "17.63889",
+        "type": "city"
+      },
+      {
+        "name": "Visby",
+        "lat": "57.64089",
+        "lng": "18.29602",
+        "type": "city"
+      },
+      {
+        "name": "Lund",
+        "lat": "55.70584",
+        "lng": "13.19321",
+        "type": "city"
+      },
+      {
+        "name": "Helsingborg",
+        "lat": "56.04673",
+        "lng": "12.69437",
+        "type": "city"
+      },
+      {
+        "name": "Örebro",
+        "lat": "59.27412",
+        "lng": "15.2066",
+        "type": "city"
+      },
+      {
+        "name": "Linköping",
+        "lat": "58.41086",
+        "lng": "15.62157",
+        "type": "city"
+      },
+      {
+        "name": "Norrköping",
+        "lat": "58.59419",
+        "lng": "16.1826",
+        "type": "city"
+      },
+      {
+        "name": "Jönköping",
+        "lat": "57.78145",
+        "lng": "14.15618",
+        "type": "city"
+      },
+      {
+        "name": "Umeå",
+        "lat": "63.82842",
+        "lng": "20.25972",
+        "type": "city"
+      },
+      {
+        "name": "Växjö",
+        "lat": "56.87767",
+        "lng": "14.80906",
+        "type": "city"
+      },
+      {
+        "name": "Kalmar",
+        "lat": "56.66157",
+        "lng": "16.36163",
+        "type": "city"
+      },
+      {
+        "name": "Östersund",
+        "lat": "63.1792",
+        "lng": "14.63566",
+        "type": "city"
+      },
+      {
+        "name": "Falun",
+        "lat": "60.60357",
+        "lng": "15.62597",
+        "type": "city"
+      },
+      {
+        "name": "Halmstad",
+        "lat": "56.67446",
+        "lng": "12.85676",
+        "type": "city"
+      },
+      {
+        "name": "Karlstad",
+        "lat": "59.3793",
+        "lng": "13.50357",
+        "type": "city"
+      },
+      {
+        "name": "Gävle",
+        "lat": "60.67452",
+        "lng": "17.14174",
+        "type": "city"
+      },
+      {
+        "name": "Luleå",
+        "lat": "65.58415",
+        "lng": "22.15465",
+        "type": "city"
+      },
+      {
+        "name": "Kiruna",
+        "lat": "67.85572",
+        "lng": "20.22513",
+        "type": "city"
+      },
+      {
+        "name": "Karlskrona",
+        "lat": "56.16156",
+        "lng": "15.58661",
+        "type": "city"
+      },
+      {
+        "name": "Ystad",
+        "lat": "55.42966",
+        "lng": "13.82041",
+        "type": "city"
+      },
+      {
+        "name": "Öland",
+        "lat": "56.6649",
+        "lng": "16.6365",
+        "type": "city"
+      },
+      {
+        "name": "Sundsvall",
+        "lat": "62.39129",
+        "lng": "17.3063",
+        "type": "city"
+      },
+      {
+        "name": "Västerås",
+        "lat": "59.6099",
+        "lng": "16.5448",
+        "type": "city"
+      }
+    ]
+  },
+  {
+    "country": "NO",
+    "locations": [
+      {
+        "name": "Oslo",
+        "lat": "59.91273",
+        "lng": "10.74609",
+        "type": "city"
+      },
+      {
+        "name": "Bergen",
+        "lat": "60.39299",
+        "lng": "5.32415",
+        "type": "city"
+      },
+      {
+        "name": "Trondheim",
+        "lat": "63.43049",
+        "lng": "10.39506",
+        "type": "city"
+      },
+      {
+        "name": "Stavanger",
+        "lat": "58.97005",
+        "lng": "5.73332",
+        "type": "city"
+      },
+      {
+        "name": "Kristiansand",
+        "lat": "58.14671",
+        "lng": "7.9956",
+        "type": "city"
+      },
+      {
+        "name": "Tromsø",
+        "lat": "69.6489",
+        "lng": "18.95508",
+        "type": "city"
+      },
+      {
+        "name": "Ålesund",
+        "lat": "62.47225",
+        "lng": "6.15492",
+        "type": "city"
+      },
+      {
+        "name": "Skien",
+        "lat": "59.20962",
+        "lng": "9.60897",
+        "type": "city"
+      },
+      {
+        "name": "Molde",
+        "lat": "62.73752",
+        "lng": "7.15912",
+        "type": "city"
+      },
+      {
+        "name": "Kristiansand",
+        "lat": "58.14671",
+        "lng": "7.9956",
+        "type": "city"
+      },
+      {
+        "name": "Tønsberg",
+        "lat": "59.26754",
+        "lng": "10.40762",
+        "type": "city"
+      },
+      {
+        "name": "Sogndalsfjøra",
+        "lat": "61.227",
+        "lng": "7.067",
+        "type": "city"
+      }
+    ]
+  },
+  {
+    "country": "DK",
+    "locations": [
+      {
+        "name": "Copenhagen",
+        "lat": "55.67594",
+        "lng": "12.56553",
+        "type": "city"
+      },
+      {
+        "name": "Aarhus",
+        "lat": "56.1629",
+        "lng": "10.2039",
+        "type": "city"
+      },
+      {
+        "name": "Odense",
+        "lat": "55.39594",
+        "lng": "10.38831",
+        "type": "city"
+      },
+      {
+        "name": "Aalborg",
+        "lat": "57.048",
+        "lng": "9.9187",
+        "type": "city"
+      },
+      {
+        "name": "Esbjerg",
+        "lat": "55.47028",
+        "lng": "8.45187",
+        "type": "city"
+      },
+      {
+        "name": "Roskilde",
+        "lat": "55.64152",
+        "lng": "12.08035",
+        "type": "city"
+      },
+      {
+        "name": "Helsingør",
+        "lat": "56.03606",
+        "lng": "12.6136",
+        "type": "city"
+      },
+      {
+        "name": "Svendborg",
+        "lat": "55.05982",
+        "lng": "10.60677",
+        "type": "city"
+      },
+      {
+        "name": "Herning",
+        "lat": "56.13615",
+        "lng": "8.97662",
+        "type": "city"
+      },
+      {
+        "name": "Sønderborg",
+        "lat": "54.9138",
+        "lng": "9.7922",
+        "type": "city"
+      },
+      {
+        "name": "Skagen",
+        "lat": "57.72093",
+        "lng": "10.58394",
+        "type": "city"
+      }
+    ]
+  },
+  {
+    "country": "SI",
+    "locations": [
+      {
+        "name": "Maribor",
+        "lat": "46.55472",
+        "lng": "15.64667",
+        "type": "city"
+      },
+      {
+        "name": "Ljubljana",
+        "lat": "46.05108",
+        "lng": "14.50513",
+        "type": "city"
+      },
+      {
+        "name": "Koper",
+        "lat": "45.54694",
+        "lng": "13.72944",
+        "type": "city"
+      },
+      {
+        "name": "Kranjska Gora",
+        "lat": "46.45689",
+        "lng": "13.77824",
+        "type": "city"
+      },
+      {
+        "name": "Piran",
+        "lat": "45.52778",
+        "lng": "13.57056",
+        "type": "city"
+      },
+      {
+        "name": "Soca Valley",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Triglav National Park",
+        "lat": 0,
+        "lng": 0
+      },
+      {
+        "name": "Lake Bled",
+        "lat": 0,
+        "lng": 0
+      }
+    ]
+  },
+  {
+    "country": "LU",
+    "locations": [
+      {
+        "name": "Mullerthal Region",
+        "lat": 0,
+        "lng": 0
+      }
+    ]
+  },
+  {
+    "country": "FI",
+    "locations": [
+      {
+        "name": "Helsinki",
+        "lat": "60.16952",
+        "lng": "24.93545",
+        "type": "city"
+      },
+      {
+        "name": "Turku",
+        "lat": "60.45148",
+        "lng": "22.26869",
+        "type": "city"
+      },
+      {
+        "name": "Tampere",
+        "lat": "61.49911",
+        "lng": "23.78712",
+        "type": "city"
+      },
+      {
+        "name": "Porvoo",
+        "lat": "60.39233",
+        "lng": "25.66507",
+        "type": "city"
+      },
+      {
+        "name": "Vaasa",
+        "lat": "63.096",
+        "lng": "21.61577",
+        "type": "city"
+      },
+      {
+        "name": "Savonlinna",
+        "lat": "61.8699",
+        "lng": "28.87999",
+        "type": "city"
+      },
+      {
+        "name": "Rauma",
+        "lat": "61.12724",
+        "lng": "21.51127",
+        "type": "city"
+      },
+      {
+        "name": "Oulu",
+        "lat": "65.01236",
+        "lng": "25.46816",
+        "type": "city"
+      },
+      {
+        "name": "Rovaniemi",
+        "lat": "66.5",
+        "lng": "25.71667",
+        "type": "city"
+      }
+    ]
+  },
+  {
+    "country": "GR",
+    "locations": [
+      {
+        "name": "Athens",
+        "lat": "37.98376",
+        "lng": "23.72784",
+        "type": "city"
+      },
+      {
+        "name": "Thessaloníki",
+        "lat": "40.64361",
+        "lng": "22.93086",
+        "type": "city"
+      },
+      {
+        "name": "Santorini",
+        "lat": "36.3932",
+        "lng": "25.4615",
+        "type": "city"
+      },
+      {
+        "name": "Mykonos",
+        "lat": "37.44529",
+        "lng": "25.32872",
+        "type": "city"
+      },
+      {
+        "name": "Piraeus",
+        "lat": "37.94203",
+        "lng": "23.64619",
+        "type": "city"
+      },
+      {
+        "name": "Rhodes",
+        "lat": "36.4341",
+        "lng": "28.2176",
+        "type": "city"
+      },
+      {
+        "name": "Ioannina",
+        "lat": "39.6650",
+        "lng": "20.8537",
+        "type": "city"
+      },
+      {
+        "name": "Patras",
+        "lat": "38.2466",
+        "lng": "21.7346",
+        "type": "city"
+      }
+    ]
+  },
+  {
+    "country": "Romania",
+    "locations": [
+      {
+        "name": "Bucahrest",
+        "lat": "44.43225",
+        "lng": "26.10626",
+        "type": "city"
+      },
+      {
+        "name": "Brasov",
+        "lat": "45.64861",
+        "lng": "25.60613",
+        "type": "city"
+      },
+      {
+        "name": "Constanta",
+        "lat": "44.18073",
+        "lng": "28.63432",
+        "type": "city"
+      },
+      {
+        "name": "Cluj-Napoca",
+        "lat": "46.76667",
+        "lng": "23.6",
+        "type": "city"
+      },
+      {
+        "name": "Sibiu",
+        "lat": "45.8",
+        "lng": "24.15",
+        "type": "city"  
+      },
+      {
+        "name": "Timisoara",
+        "lat": "45.74944",
+        "lng": "21.22722",
+        "type": "city"
+      },
+      {
+        "name": "Alba Iulia",
+        "lat": "46.06667",
+        "lng": "23.58333",
+        "type": "city"
+      },
+      {
+        "name": "Sighisoara",
+        "lat": "46.21667",
+        "lng": "24.8",
+        "type": "city"
+      },
+      {
+        "name": "Oradea",
+        "lat": "47.07222",
+        "lng": "21.92111",
+        "type": "city"
+      },
+      {
+        "name": "Iasi",
+        "lat": "47.16667",
+        "lng": "27.6",
+        "type": "city"
+      },
+      {
+        "name": "Targu Mures",
+        "lat": "46.5425",
+        "lng": "24.5575",
+        "type": "city"
+      },
+      {
+        "name": "Sinaia",
+        "lat": "45.35",
+        "lng": "25.55",
+        "type": "city"
+      },
+      {
+        "name": "Suceava",
+        "lat": "47.63333",
+        "lng": "26.25",
+        "type": "city"
+      }
+    ]
+  },
+  {
+    "country": "Serbia",
+    "locations": [
+      {
+        "name": "Studenica Monastery",
+        "lat": "43.486111",
+        "lng": "20.536671",
+        "type": "landmark"
+      },
+      {
+        "name": "Belgrade",
+        "lat": "44.80401",
+        "lng": "20.46513",
+        "type": "city"
+      },
+      {
+        "name": "Niš",
+        "lat": "43.32472",
+        "lng": "21.90333",
+        "type": "city"
+      },
+      {
+        "name": "Novi Sad",
+        "lat": "45.25167",
+        "lng": "19.83694",
+        "type": "city"
+      },
+      {
+        "name": "Subotica",
+        "lat": "46.1",
+        "lng": "19.66667",
+        "type": "city"
+      },
+      {
+        "name": "Zlatibor",
+        "lat": "43.72417",
+        "lng": "19.69528",
+        "type": "city"
+      }
+    ]
+  },
+  {
+    "country": "RU",
+    "locations": [
+      {
+        "name": "Saint Petersburg",
+        "lat": "59.93863",
+        "lng": "30.31413",
+        "type": "city"
+      },
+      {
+        "name": "Moscow",
+        "lat": "55.75222",
+        "lng": "37.61556",
+        "type": "city"
+      },
+      {
+        "name": "Ufa",
+        "lat": "54.74306",
+        "lng": "55.96779",
+        "type": "city"
+      },
+      {
+        "name": "Smolensk",
+        "lat": "54.7818",
+        "lng": "32.0401",
+        "type": "city"
+      },
+      {
+        "name": "Kaliningrad",
+        "lat": "54.70649",
+        "lng": "20.51095",
+        "type": "city"
+      },
+      {
+        "name": "Krasnodar",
+        "lat": "45.04484",
+        "lng": "38.97603",
+        "type": "city"
+      },
+      {
+        "name": "Sochi",
+        "lat": "43.59917",
+        "lng": "39.72569",
+        "type": "city"
+      },
+      {
+        "name": "Veliky Novgorod",
+        "lat": "58.52265",
+        "lng": "31.26967",
+        "type": "city"
+      },
+      {
+        "name": "Volgograd",
+        "lat": "48.71939",
+        "lng": "44.50183",
+        "type": "city"
+      },
+      {
+        "name": "Nizhny Novgorod",
+        "lat": "56.32867",
+        "lng": "44.00205",
+        "type": "city"
+      },
+      {
+        "name": "Irkutsk",
+        "lat": "52.29778",
+        "lng": "104.29639",
+        "type": "city"
+      },
+      {
+        "name": "Vladivostok",
+        "lat": "43.10562",
+        "lng": "131.87353",
+        "type": "city"
+      },
+      {
+        "name": "Yaketerinburg",
+        "lat": "56.8575",
+        "lng": "60.6125",
+        "type": "city"
+      },
+      {
+        "name": "Birobidzhan",
+        "lat": "48.79444",
+        "lng": "132.92139",
+        "type": "city"
+      },
+      {
+        "name": "Rostov-on-Don",
+        "lat": "47.23135",
+        "lng": "39.72328",
+        "type": "city"
+      }
+    ]
+  },
+  {
+    "country": "US",
+    "locations": [
+      {
+        "name": "Green Bay",
+        "lat": "44.51916",
+        "lng": "-88.01983",
+        "type": "city"
+      },
+      {
+        "name": "Boulder",
+        "lat": "40.01499",
+        "lng": "-105.27055",
+        "type": "city"
+      },
+      {
+        "name": "Denver",
+        "lat": "39.73915",
+        "lng": "-104.9847",
+        "type": "city"
+      },
+      {
+        "name": "Colorado Springs",
+        "lat": "38.83388",
+        "lng": "-104.82136",
+        "type": "city"
+      },
+      {
+        "name": "Portland (oregon)",
+        "lat": "45.52345",
+        "lng": "-122.67621",
+        "type": "city"
+      },
+      {
+        "name": "Seattle",
+        "lat": "47.60621",
+        "lng": "-122.33207",
+        "type": "city"
+      },
+      {
+        "name": "Chicago",
+        "lat": "41.85003",
+        "lng": "-87.65005",
+        "type": "city"
+      },
+      {
+        "name": "Miami",
+        "lat": "25.77427",
+        "lng": "-80.19366",
+        "type": "city"
+      },
+      {
+        "name": "Orlando",
+        "lat": "28.53834",
+        "lng": "-81.37924",
+        "type": "city"
+      },
+      {
+        "name": "Fort Lauderdale",
+        "lat": "26.12231",
+        "lng": "-80.14338",
+        "type": "city"
+      },
+      {
+        "name": "Tampa",
+        "lat": "27.94752",
+        "lng": "-82.45843",
+        "type": "city"
+      },
+      {
+        "name": "New York City",
+        "lat": "40.71427",
+        "lng": "-74.00597",
+        "type": "city"
+      },
+      {
+        "name": "San Francisco",
+        "lat": "37.77493",
+        "lng": "-122.41942",
+        "type": "city"
+      },
+      {
+        "name": "Los Angeles",
+        "lat": "34.05223",
+        "lng": "-118.24368",
+        "type": "city"
+      },
+      {
+        "name": "Boston",
+        "lat": "42.35843",
+        "lng": "-71.05977",
+        "type": "city"
+      },
+      {
+        "name": "Portland (maine)",
+        "lat": "43.66147",
+        "lng": "-70.25533",
+        "type": "city"
+      },
+      {
+        "name": "Bar Harbor",
+        "lat": "44.38761",
+        "lng": "-68.20391",
+        "type": "city"
+      },
+      {
+        "name": "Gatlinburg",
+        "lat": "35.71426",
+        "lng": "-83.51016",
+        "type": "city"
+      },
+      {
+        "name": "Buffalo",
+        "lat": "42.88645",
+        "lng": "-78.87837",
+        "type": "city"
+      },
+      {
+        "name": "Norwich (vermont)",
+        "lat": "43.71583",
+        "lng": "-72.30833",
+        "type": "city"
+      },
+      {
+        "name": "Charlotte (vermont)",
+        "lat": "44.30972",
+        "lng": "-73.245",
+        "type": "city"
+      },
+      {
+        "name": "South Burlington",
+        "lat": "44.46699",
+        "lng": "-73.17096",
+        "type": "city"
+      },
+      {
+        "name": "Shelburne",
+        "lat": "44.38014",
+        "lng": "-73.22583",
+        "type": "city"
+      },
+      {
+        "name": "Montpelier",
+        "lat": "44.26006",
+        "lng": "-72.57539",
+        "type": "city"
+      },
+      {
+        "name": "Williston",
+        "lat": "44.43738",
+        "lng": "-73.11069",
+        "type": "city"
+      },
+      {
+        "name": "Essex",
+        "lat": "44.49083",
+        "lng": "-73.11694",
+        "type": "city"
+      },
+      {
+        "name": "Middlebury",
+        "lat": "44.01534",
+        "lng": "-73.16726",
+        "type": "city"
+      },
+      {
+        "name": "Hanover (New Hampshire)",
+        "lat": "43.70225",
+        "lng": "-72.2896",
+        "type": "city"
+      },
+      {
+        "name": "Bedford",
+        "lat": "42.94647",
+        "lng": "-71.51501",
+        "type": "city"
+      },
+      {
+        "name": "Portsmouth",
+        "lat": "43.07176",
+        "lng": "-70.76255",
+        "type": "city"
+      },
+      {
+        "name": "Salt Lake City",
+        "lat": "40.76078",
+        "lng": "-111.89105",
+        "type": "city"
+      },
+      {
+        "name": "Maui",
+        "lat": "20.79836",
+        "lng": "-156.33192",
+        "type": "city"
+      },
+      {
+        "name": "Honolulu",
+        "lat": "21.30694",
+        "lng": "-157.85833",
+        "type": "city"
+      },
+      {
+        "name": "Glacier National Park",
+        "lat": "48.75961",
+        "lng": "-113.78702",
+        "type": "natural"
+      },
+      {
+        "name": "Grand Canyon National Park",
+        "lat": "36.05444",
+        "lng": "-112.14011",
+        "type": "natural"
+      },
+      {
+        "name": "Yellowstone National Park",
+        "lat": "44.42796",
+        "lng": "-110.58846",
+        "type": "natural"
+      },
+      {
+        "name": "Zion National Park",
+        "lat": "37.2982",
+        "lng": "-113.0263",
+        "type": "natural"
+      },
+      {
+        "name": "Yosemite National Park",
+        "lat": "37.8651",
+        "lng": "-119.5383",
+        "type": "natural"
+      },
+      {
+        "name": "Grand Teton National Park",
+        "lat": "43.79043",
+        "lng": "-110.68176",
+        "type": "natural"
+      },
+      {
+        "name": "Olympic National Park",
+        "lat": "47.80207",
+        "lng": "-123.60427",
+        "type": "natural"
+      },
+      {
+        "name": "Canyonlands National Park",
+        "lat": "38.32687",
+        "lng": "-109.87819",
+        "type": "natural"
+      },
+      {
+        "name": "Arches National Park",
+        "lat": "38.73308",
+        "lng": "-109.59251",
+        "type": "natural"
+      },
+      {
+        "name": "Lake Tahoe",
+        "lat": "39.09685",
+        "lng": "-120.03235",
+        "type": "natural"
+      },
+      {
+        "name": "The Wave",
+        "lat": "36.99779",
+        "lng": "-112.00602",
+        "type": "natural"
+      },
+      {
+        "name": "Badlands National Park",
+        "lat": "43.85538",
+        "lng": "-102.33969",
+        "type": "natural"
+      },
+      {
+        "name": "New River Gorge National Park",
+        "lat": "37.94745",
+        "lng": "-81.02482",
+        "type": "natural"
+      },
+      {
+        "name": "Congaree National Park",
+        "lat": "33.79141",
+        "lng": "-80.7821",
+        "type": "natural"
+      },
+      {
+        "name": "Grand Canyon National Park",
+        "lat": "36.05444",
+        "lng": "-112.14011",
+        "type": "natural"
+      },
+      {
+        "name": "Sequoia National Park",
+        "lat": "36.48636",
+        "lng": "-118.5658",
+        "type": "natural"
+      },
+      {
+        "name": "Kings Canyon National Park",
+        "lat": "36.88745",
+        "lng": "-118.555",
+        "type": "natural"
+      },
+      {
+        "name": "Voyageurs National Park",
+        "lat": "48.48333",
+        "lng": "-92.83333",
+        "type": "natural"
+      },
+      {
+        "name": "Niagara Falls",
+        "lat": "43.10012",
+        "lng": "-79.06627",
+        "type": "natural"
+      },
+      {
+        "name": "Crater Lake National Park",
+        "lat": "42.86844",
+        "lng": "-122.16855",
+        "type": "natural"
+      },
+      {
+        "name": "Mount Rainier National Park",
+        "lat": "46.88005",
+        "lng": "-121.72691",
+        "type": "natural"
+      },
+      {
+        "name": "North Cascades National Park",
+        "lat": "48.77174",
+        "lng": "-121.29846",
+        "type": "natural"
+      },
+      {
+        "name": "Redwood National Park",
+        "lat": "41.21318",
+        "lng": "-124.00463",
+        "type": "natural"
+      },
+      {
+        "name": "Cape Meares State Scenic Viewpoint",
+        "lat": "45.48417",
+        "lng": "-123.97333",
+        "type": "natural"
+      },
+      {
+        "name": "Cape Lookout State Park",
+        "lat": "45.36278",
+        "lng": "-123.96583",
+        "type": "natural"
+      },
+      {
+        "name": "Cape Kiwanda State Natural Area",
+        "lat": "45.21889",
+        "lng": "-123.97333",
+        "type": "natural"
+      }
+    ] 
+  },
+  {
+    "country": "CA",
+    "locations": [
+      {
+        "name": "Vancouver",
+        "lat": "49.24966",
+        "lng": "-123.11934",
+        "type": "city"
+      },
+      {
+        "name": "Calgary",
+        "lat": "51.05011",
+        "lng": "-114.08529",
+        "type": "city"
+      },
+      {
+        "name": "Edmonton",
+        "lat": "53.54439",
+        "lng": "-113.49093",
+        "type": "city"
+      },
+      {
+        "name": "Saskatoon",
+        "lat": "52.13321",
+        "lng": "-106.67004",
+        "type": "city"
+      },
+      {
+        "name": "Winnipeg",
+        "lat": "49.89514",
+        "lng": "-97.13839",
+        "type": "city"
+      },
+      {
+        "name": "Toronto",
+        "lat": "43.65107",
+        "lng": "-79.34702",
+        "type": "city"
+      },
+      {
+        "name": "Ottawa",
+        "lat": "45.42153",
+        "lng": "-75.69356",
+        "type": "city"
+      },
+      {
+        "name": "Quebec",
+        "lat": "46.81387",
+        "lng": "-71.20874",
+        "type": "city"
+      },
+      {
+        "name": "Montreal",
+        "lat": "45.50884",
+        "lng": "-73.58781",
+        "type": "city"
+      },
+      {
+        "name": "Halifax",
+        "lat": "44.64533",
+        "lng": "-63.57239",
+        "type": "city"
+      },
+      {
+        "name": "St. John's",
+        "lat": "47.56494",
+        "lng": "-52.70931",
+        "type": "city"
+      }
+    ]
+  },
+  {
+    "country": "Luxembourg",
+    "locations": [
+      {
+        "name": "Luxembourg City",
+        "lat": "49.61167",
+        "lng": "6.13",
+        "type": "city"
+      }
+    ]
+  },
+  {
+    "country": "AR",
+    "locations": [
+      {
+        "name": "Buenos Aires",
+        "lat": "-34.61315",
+        "lng": "-58.37723",
+        "type": "city"
+      },
+      {
+        "name": "Mendoza",
+        "lat": "-32.89084",
+        "lng": "-68.82717",
+        "type": "city"
+      },
+      {
+        "name": "Bariloche",
+        "lat": "-41.14556",
+        "lng": "-71.30828",
+        "type": "city"
+      },
+      {
+        "name": "Ushuaia",
+        "lat": "-54.80191",
+        "lng": "-68.30295",
+        "type": "city"
+      },
+      {
+        "name": "El Calafate",
+        "lat": "-50.34016",
+        "lng": "-72.2708",
+        "type": "city"
+      },
+      {
+        "name": "Puerto Madryn",
+        "lat": "-42.7692",
+        "lng": "-65.03851",
+        "type": "city"
+      },
+      {
+        "name": "Salta",
+        "lat": "-24.7859",
+        "lng": "-65.41166",
+        "type": "city"
+      },
+      {
+        "name": "Córdoba",
+        "lat": "-31.4135",
+        "lng": "-64.18105",
+        "type": "city"
+      },
+      {
+        "name": "Villa La Angostura",
+        "lat": "-40.76118",
+        "lng": "-71.63932",
+        "type": "city"
+      },
+      {
+        "name": "San Martín de los Andes",
+        "lat": "-40.16056",
+        "lng": "-71.35639",
+        "type": "city"
+      },
+      {
+        "name": "San Luís",
+        "lat": "-33.29501",
+        "lng": "-66.33563",
+        "type": "city"
+      },
+      {
+        "name": "Merlo, San Luís",
+        "lat": "-32.34313",
+        "lng": "-65.002",
+        "type": "city"
+      },
+      {
+        "name": "Viedma",
+        "lat": "-40.81345",
+        "lng": "-62.99668",
+        "type": "city"
+      },
+      {
+        "name": "Comodoro Rivadavia",
+        "lat": "-45.86413",
+        "lng": "-67.49656",
+        "type": "city"
+      },
+      {
+        "name": "El Chalten",
+        "lat": "-49.33149",
+        "lng": "-72.88633",
+        "type": "city"
+      },
+      {
+        "name": "Rio Gallegos",
+        "lat": "-51.62315",
+        "lng": "-69.21627",
+        "type": "city"
+      },
+      {
+        "name": "Esquel",
+        "lat": "-42.91147",
+        "lng": "-71.31971",
+        "type": "city"
+      },
+      {
+        "name": "El Bolsón",
+        "lat": "-41.96359",
+        "lng": "-71.53299",
+        "type": "city"
+      },
+      {
+        "name": "Santa Cruz",
+        "lat": "-50.01999",
+        "lng": "-68.52471",
+        "type": "city"
+      },
+      {
+        "name": "Malargüe",
+        "lat": "-35.46667",
+        "lng": "-69.58333",
+        "type": "city"
+      },
+      {
+        "name": "Mar del Plata",
+        "lat": "-38.00228",
+        "lng": "-57.55754",
+        "type": "city"
+      },
+      {
+        "name": "Pinamar",
+        "lat": "-37.1075",
+        "lng": "-56.86417",
+        "type": "city"
+      },
+      {
+        "name": "Cariló",
+        "lat": "-37.16417",
+        "lng": "-56.88917",
+        "type": "city"
+      },
+      {
+        "name": "Mar de las Pampas",
+        "lat": "-37.32778",
+        "lng": "-57.02444",
+        "type": "city"
+      },
+      {
+        "name": "Necochea",
+        "lat": "-38.54726",
+        "lng": "-58.73682",
+        "type": "city"
+      },
+      {
+        "name": "Bahía Blanca",
+        "lat": "-38.7196",
+        "lng": "-62.27243",
+        "type": "city"
+      },
+      {
+        "name": "Tandil",
+        "lat": "-37.32167",
+        "lng": "-59.13316",
+        "type": "city"
+      },
+      {
+        "name": "Sierra de la Ventana",
+        "lat": "-38.13333",
+        "lng": "-61.8",
+        "type": "city"
+      },
+      {
+        "name": "San Antonio de Areco",
+        "lat": "-34.24681",
+        "lng": "-59.4724",
+        "type": "city"
+      },
+      {
+        "name": "Luján",
+        "lat": "-34.57028",
+        "lng": "-59.105",
+        "type": "city"
+      },
+      {
+        "name": "Tigre",
+        "lat": "-34.42615",
+        "lng": "-58.57974",
+        "type": "city"
+      },
+      {
+        "name": "Foz do Iguaçu",
+        "lat": "-25.54778",
+        "lng": "-54.58806",
+        "type": "city"
+      },
+      {
+        "name": "Punamarca",
+        "lat": "-23.20278",
+        "lng": "-65.34944",
+        "type": "city"
+      },
+      {
+        "name": "Quebrada de las Conchas",
+        "lat": "-25.08333",
+        "lng": "-66.16667",
+        "type": "natural"
+      },
+      {
+        "name": "Cafayate",
+        "lat": "-26.07399",
+        "lng": "-65.97627",
+        "type": "city"
+      },
+      {
+        "name": "Glaciar Perito Moreno",
+        "lat": "-50.49667",
+        "lng": "-73.03472",
+        "type": "natural"
+      },
+      {
+        "name": "Peninsula Valdés",
+        "lat": "-42.63333",
+        "lng": "-64.25",
+        "type": "natural"
+      },
+      {
+        "name": "Quebrada de Humahuaca",
+        "lat": "-23.16667",
+        "lng": "-65.33333",
+        "type": "natural"
+      },
+      {
+        "name": "San Miguel de Tucumán",
+        "lat": "-26.82414",
+        "lng": "-65.2226",
+        "type": "city"
+      },
+      {
+        "name": "Parque Nacional Río Pilcomayo",
+        "lat": "-22.5",
+        "lng": "-62.5",
+        "type": "natural"
+      },
+      {
+        "name": "Parque Nacional Chaco",
+        "lat": "-26.5",
+        "lng": "-60.5",
+        "type": "natural"
+      },
+      {
+        "name": "Reserva Natural Educativa Colonia Benítez",
+        "lat": "-27.33333",
+        "lng": "-58.83333",
+        "type": "natural"
+      },
+      {
+        "name": "Parque Nacional Iberá",
+        "lat": "-28.5",
+        "lng": "-57.5",
+        "type": "natural"
+      },
+      {
+        "name": "Parque Nacional Mburucuyá",
+        "lat": "-28.16667",
+        "lng": "-58.16667",
+        "type": "natural"
+      },
+      {
+        "name": "Parque Nacional Iguazú",
+        "lat": "-25.66667",
+        "lng": "-54.5",
+        "type": "natural"
+      },
+      {
+        "name": "Reserva Natural Estricta San Antonio",
+        "lat": "-27.5",
+        "lng": "-55.5",
+        "type": "natural"
+      },
+      {
+        "name": "Parque Nacional Talampaya",
+        "lat": "-29.5",
+        "lng": "-67.5",
+        "type": "natural"
+      },
+      {
+        "name": "Parque Nacional El Leoncito",
+        "lat": "-31.5",
+        "lng": "-69.5",
+        "type": "natural"
+      },
+      {
+        "name": "Parque Nacional Los Cardones",
+        "lat": "-25.5",
+        "lng": "-66.5",
+        "type": "natural"
+      },
+      {
+        "name": "Parque Nacional Baritú",
+        "lat": "-22.5",
+        "lng": "-64.5",
+        "type": "natural"
+      },
+      {
+        "name": "Reserva Nacional El Nogalar de Los Toldos",
+        "lat": "-27.5",
+        "lng": "-60.5",
+        "type": "natural"
+      },
+      {
+        "name": "Parque Nacional Calilegua",
+        "lat": "-23.5",
+        "lng": "-64.5",
+        "type": "natural"
+      },
+      {
+        "name": "Parque Nacional El Rey",
+        "lat": "-26.5",
+        "lng": "-60.5",
+        "type": "natural"
+      },
+      {
+        "name": "Reserva Nacional Pizarro",
+        "lat": "-23.5",
+        "lng": "-62.5",
+        "type": "natural"
+      },
+      {
+        "name": "Parque Nacional Aconquija",
+        "lat": "-27.5",
+        "lng": "-65.5",
+        "type": "natural"
+      },
+      {
+        "name": "Parque Nacional Lanín",
+        "lat": "-39.5",
+        "lng": "-71.07",
+        "type": "natural"
+      },
+      {
+        "name": "Parque Nacional Lago Puelo",
+        "lat": "-42.5",
+        "lng": "-71.5",
+        "type": "natural"
+      },
+      {
+        "name": "Parque Nacional Los Arrayanes",
+        "lat": "-40.5",
+        "lng": "-71.5",
+        "type": "natural"
+      },
+      {
+        "name": "Parque Nacional Nahuel Huapi",
+        "lat": "-41.5",
+        "lng": "-71.5",
+        "type": "natural"
+      },
+      {
+        "name": "Parque Nacional Los Alerces",
+        "lat": "-43.5",
+        "lng": "-71.5",
+        "type": "natural"
+      },
+      {
+        "name": "Parque Nacional Perito Moreno",
+        "lat": "-47.5",
+        "lng": "-72.5",
+        "type": "natural"
+      },
+      {
+        "name": "Parque Nacional Los Glaciares",
+        "lat": "-50.33",
+        "lng": "-73.23",
+        "type": "natural"
+      },
+      {
+        "name": "Parque Nacional Tierra del Fuego",
+        "lat": "-54.5",
+        "lng": "-68.5",
+        "type": "natural"
+      }
+    ]
+  },
+  {
+    "country": "UY",
+    "locations": [
+      {
+        "name": "Montevideo",
+        "lat": "-34.90328",
+        "lng": "-56.18816",
+        "type": "city"
+      },
+      {
+        "name": "Punta del Este",
+        "lat": "-34.96813",
+        "lng": "-54.94916",
+        "type": "city"
+      },
+      {
+        "name": "Carmelo",
+        "lat": "-33.98967",
+        "lng": "-58.28598",
+        "type": "city"
+      },
+      {
+        "name": "Colonia del Sacramento",
+        "lat": "-34.46072",
+        "lng": "-57.83391",
+        "type": "city"
+      }
+    ]
+  },
+  {
+    "country": "CL",
+    "locations": [
+      {
+        "name": "Santiago de Chile",
+        "lat": "-33.45694",
+        "lng": "-70.64827",
+        "type": "city"
+      },
+      {
+        "name": "Puerto Montt",
+        "lat": "-41.46917",
+        "lng": "-72.9425",
+        "type": "city"
+      },
+      {
+        "name": "Parque Nacional Torres del Paine",
+        "lat": "-50.94222",
+        "lng": "-73.40667",
+        "type": "natural"
+      }
+    ]
+  },
+  {
+    "country": "BR",
+    "locations": [
+      {
+        "name": "Rio de Janeiro",
+        "lat": "-22.90642",
+        "lng": "-43.18223",
+        "type": "city"
+      },
+      {
+        "name": "São Paulo",
+        "lat": "-23.5475",
+        "lng": "-46.63611",
+        "type": "city"
+      },
+      {
+        "name": "Florianópolis",
+        "lat": "-27.59667",
+        "lng": "-48.54917",
+        "type": "city"
+      },
+      {
+        "name": "Porto Alegre",
+        "lat": "-30.03306",
+        "lng": "-51.23",
+        "type": "city"
+      },
+      {
+        "name": "Ilha Grande",
+        "lat": "-23.14",
+        "lng": "-44.16667",
+        "type": "city"
+      }
+    ]
+  },
+  {
+    "country": "Estonia",
+    "locations": [
+      {
+        "name": "Tallinn",
+        "lat": "59.43696",
+        "lng": "24.75353",
+        "type": "city"
+      }
+    ]
+  },
+  {
+    "country": "LV",
+    "locations": [
+      {
+        "name": "Riga",
+        "lat": "56.946",
+        "lng": "24.10589",
+        "type": "city"
+      }
+    ]
+  },
+  {
+    "country": "LT",
+    "locations": [
+      {
+        "name": "Vilnius",
+        "lat": "54.68916",
+        "lng": "25.2798",
+        "type": "city"
+      },
+      {
+        "name": "Sand Dunes of the Curonian Spit",
+        "lat": "55.29667",
+        "lng": "21.00833",
+        "type": "natural"
+      },
+      {
+        "name": "Hill of Crosses",
+        "lat": "56.03056",
+        "lng": "23.41694",
+        "type": "natural"
+      },
+      {
+        "name": "Kaunas",
+        "lat": "54.9",
+        "lng": "23.9",
+        "type": "city"
+      },
+      {
+        "name": "Klaipėda",
+        "lat": "55.71722",
+        "lng": "21.1175",
+        "type": "city"
+      },
+      {
+        "name": "Nida",
+        "lat": "55.30833",
+        "lng": "20.99667",
+        "type": "city"
+      }
+    ]
+  }
+]
